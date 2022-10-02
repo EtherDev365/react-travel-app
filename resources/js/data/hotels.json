@@ -1,0 +1,2320 @@
+{
+  "SessionId": "efb52fdb-e7dd-4263-b2ce-fb676164e05f",
+  "Hotels": [
+    {
+      "Id": "dde35865-c6f1-47f3-a74a-3021302b40d4",
+      "CurrencyCode": "USD",
+      "DailyRatePerRoom": 80.99,
+      "CheckInDate": "2022-03-09T00:00:00",
+      "CheckOutDate": "2022-03-17T00:00:00",
+      "CheckInTime": null,
+      "CheckOutTime": null,
+      "ChainName": "Days Inn",
+      "ChainCode": "DI",
+      "HotelName": "DAYS INN NEW HAVEN",
+      "HotelCode": "879",
+      "HotelCodeContext": "1A",
+      "HotelAddress": {
+        "CountryCode": "US",
+        "CountryName": null,
+        "ZIP": "06513",
+        "DistrictName": null,
+        "CityName": "NEW HAVEN",
+        "StreetAddress": "270 FOXON BLVD",
+        "RegionName": "CT"
+      },
+      "HotelMainImage": "https://d2573qu6qrjt8c.cloudfront.net/61D4889BFE8F412B9084FE74DB375E35/J.JPEG",
+      "HotelImages": [],
+      "HotelMainText": [],
+      "HotelDescription": [
+        "Easy On Off Access to I- 91 and I- 95\nYale University  2 miles\nDowntown New Haven  2 miles\nYale New Haven Hospital and St. Raphael s Hospital  4 miles\nBeaches of New Haven  4 miles\nCentrally located between New York City and Boston\nFree Wireless High Speed Internet\nFree Light Breakfast\nAll rooms Include Microwave  Refrigerators  and Hairdryers.\nOutlet Shopping 15 miles\nMohegan Sun Casino  45 miles\nFoxwoods Casino  60 miles Baggage Hold\nBallroom\nBanquet Facility\nBars\nBusiness Center\nCatering\nCheck-In - Early\nCheck-In - Express\nCheck-Out - Express\nComputer Access\nComputer Printing\nConferenceMeeting Rooms\nCopy Center\nCopy Machine\nCopy Service\nDirectional Signage\nElevators\nEvent Planning Services\nExecutiveVIP Services\nExhibit Services\nFax Service\nFront Desk\nGift ShopNewsstand\nHospitality Room\nHousekeeping - Limited Service\nIce Machine\nLaundryValet\nMail Services\nMasseurMasseuse\nMeeting and SERVICE CHARGES MAY APPLY - PLEASE CHECK SEAMLESS AVAILABILITY OR PRICING RESPONSE/DISPLAY TO GET SERVICE CHARGE DETAILS TAXES AND SERVICE CHARGES MAY APPLY - PLEASE CHECK SEAMLESS AVAILABILITY OR PRICING RESPONSE/DISPLAY TO GET TAXES DETAILS "
+      ],
+      "LocationDescription": null,
+      "AttractionDescription": null,
+      "RoomInfoDescription": null,
+      "Recreation": [],
+      "OnSiteServices": null,
+      "HotelPhone": "1-203-8680208",
+      "HotelFax": "1-203-4680787",
+      "HotelCityCode": "HVN",
+      "HotelAmenities": {
+        "PHY102": "Accessible baths",
+        "PHY104": "Adapted room doors",
+        "PHY66": "Restaurant/bar menus available in Braille",
+        "PHY50": "Handicapped parking",
+        "PHY71": "Staff trained in service to disabled guests",
+        "PHY45": "Closed caption TV",
+        "HAC218": "Children welcome",
+        "HAC352": "",
+        "HAC68": "Parking",
+        "HAC221": "Hotspots",
+        "HAC178": "High speed internet access for laptop in public areas",
+        "HAC179": "Wireless internet connection in public areas"
+      },
+      "RoomAmenities": {
+        "RMA50": "Hairdryer"
+      },
+      "HotelAmenitiesCollection": [
+        {
+          "Code": "PHY102",
+          "Name": "Accessible baths"
+        },
+        {
+          "Code": "PHY104",
+          "Name": "Adapted room doors"
+        },
+        {
+          "Code": "PHY66",
+          "Name": "Restaurant/bar menus available in Braille"
+        },
+        {
+          "Code": "PHY50",
+          "Name": "Handicapped parking"
+        },
+        {
+          "Code": "PHY71",
+          "Name": "Staff trained in service to disabled guests"
+        },
+        {
+          "Code": "PHY45",
+          "Name": "Closed caption TV"
+        },
+        {
+          "Code": "HAC218",
+          "Name": "Children welcome"
+        },
+        {
+          "Code": "HAC352",
+          "Name": ""
+        },
+        {
+          "Code": "HAC68",
+          "Name": "Parking"
+        },
+        {
+          "Code": "HAC221",
+          "Name": "Hotspots"
+        },
+        {
+          "Code": "HAC178",
+          "Name": "High speed internet access for laptop in public areas"
+        },
+        {
+          "Code": "HAC179",
+          "Name": "Wireless internet connection in public areas"
+        },
+        {
+          "Code": "",
+          "Name": ""
+        },
+        {
+          "Code": "",
+          "Name": ""
+        }
+      ],
+      "RoomAmenitiesCollection": [
+        {
+          "Code": "RMA50",
+          "Name": "Hairdryer"
+        },
+        {
+          "Code": "RMA50",
+          "Name": "Hairdryer"
+        },
+        {
+          "Code": "RMA50",
+          "Name": "Hairdryer"
+        },
+        {
+          "Code": "RMA50",
+          "Name": "Hairdryer"
+        },
+        {
+          "Code": "RMA50",
+          "Name": "Hairdryer"
+        },
+        {
+          "Code": "RMA50",
+          "Name": "Hairdryer"
+        }
+      ],
+      "Latitude": "41.3219",
+      "Longitude": "-72.87609",
+      "PolicyType": null,
+      "PaymentTerms": null,
+      "HotelAwards": [],
+      "PaymentDetails": null,
+      "Rooms": [],
+      "KeyCollectionInfo": null,
+      "HotelType": null,
+      "GuestCount": 2,
+      "HotelFeatures": []
+    },
+    {
+      "Id": "a8baef0c-b49a-403e-b441-3fb54612f111",
+      "CurrencyCode": "USD",
+      "DailyRatePerRoom": 107.2,
+      "CheckInDate": "2022-03-09T00:00:00",
+      "CheckOutDate": "2022-03-17T00:00:00",
+      "CheckInTime": null,
+      "CheckOutTime": null,
+      "ChainName": "La Quinta",
+      "ChainCode": "LQ",
+      "HotelName": "LA QUINTA INN STE NEW HAVEN",
+      "HotelCode": "DAU",
+      "HotelCodeContext": "1A",
+      "HotelAddress": {
+        "CountryCode": "US",
+        "CountryName": null,
+        "ZIP": "06511",
+        "DistrictName": null,
+        "CityName": "NEW HAVEN",
+        "StreetAddress": "400 SARGENT DRIVE",
+        "RegionName": "CT"
+      },
+      "HotelMainImage": "https://d2573qu6qrjt8c.cloudfront.net/A0BBEAE9E7824AD7935C8AA5E4F32614/J.JPEG",
+      "HotelImages": [],
+      "HotelMainText": [],
+      "HotelDescription": [
+        "Welcome to the La Quinta Inn and Suites New Haven hotel - we are here for you. Steeped with New England heritage ranging from charming lighthouses to world-class museums take advantage of everything the Elm City has to offer. Our La Quinta Inn and Suites provides comfortable convenient accommodations situated off I-95 Exit 46 and is the perfect location for travelers coming through New England whether on business or leisure. We offer shuttle service to Tweed New Haven Airport New Haven Train Station and local attractions within a 5-mile radius. Enjoy a delicious meal at our on-site Greek Olive Restaurant and Bar or order room service from their vast selection of comforting dishes and relax in your room. We are located just a stones throw away from Yale University Yale New Haven Hospitals Veterans Memorial Hospital and a short drive to Mohegan Sun Casino. Take an afternoon stroll through local shopping destinations including IKEA or head into Downtown and experience New Havens eclectic charm. Experience the nightlife with several dining and entertainment options just a short walking distance from the hotel. The Long-Wharf Theatre Shubert Theatre Brazis Italian Restaurant and Keys to the City dueling piano bar are among the many favorites. If business brings you to New Haven we are conveniently located in close proximity to local companies including Amtrak and Assa Abloy. The La Quinta Inn and Suites New Haven has 152 spacious guest rooms and suites each with a comfy pillowtop mattress. Wake up refreshed and enjoy your free deluxe continental breakfast that includes hot waffles coffee juice breads muffins and cereal. In the evenings have a drink at our on-site bar or take a relaxing swim in our exterior pool. Finish out your day with free high speed WIFI accessible in all rooms and public spaces or unwind in our on-site fitness center. All rooms include HD TV with free Showtime free parking coffee maker iron with ironing board hair dryer and free high-speed Wi-Fi. Whe SERVICE CHARGES MAY APPLY - PLEASE CHECK SEAMLESS AVAILABILITY OR PRICING RESPONSE/DISPLAY TO GET SERVICE CHARGE DETAILS TAXES AND SERVICE CHARGES MAY APPLY - PLEASE CHECK SEAMLESS AVAILABILITY OR PRICING RESPONSE/DISPLAY TO GET TAXES DETAILS "
+      ],
+      "LocationDescription": null,
+      "AttractionDescription": null,
+      "RoomInfoDescription": null,
+      "Recreation": [],
+      "OnSiteServices": null,
+      "HotelPhone": "1-203-5621111",
+      "HotelFax": "1-203-8657440",
+      "HotelCityCode": "HVN",
+      "HotelAmenities": {
+        "PHY104": "Adapted room doors",
+        "PHY66": "Restaurant/bar menus available in Braille",
+        "PHY50": "Handicapped parking",
+        "PHY28": "Public areas wheelchair accessible for disabled",
+        "PHY29": "Service animals allowed on property for people with disabilities",
+        "PHY71": "Staff trained in service to disabled guests",
+        "PHY45": "Closed caption TV",
+        "HAC224": "Pets allowed",
+        "HAC218": "Children welcome",
+        "HAC78": "Safe deposit box",
+        "HAC352": "",
+        "HAC33": "Elevators",
+        "HAC76": "Restaurant",
+        "HAC165": "Lounges/bars",
+        "HAC68": "Parking",
+        "HAC223": "Internet services",
+        "HAC222": "Free high speed internet connection",
+        "HAC221": "Hotspots",
+        "HAC178": "High speed internet access for laptop in public areas",
+        "HAC179": "Wireless internet connection in public areas"
+      },
+      "RoomAmenities": {
+        "RMA57": "Jacuzzi",
+        "RMA50": "Hairdryer"
+      },
+      "HotelAmenitiesCollection": [
+        {
+          "Code": "PHY104",
+          "Name": "Adapted room doors"
+        },
+        {
+          "Code": "PHY66",
+          "Name": "Restaurant/bar menus available in Braille"
+        },
+        {
+          "Code": "PHY50",
+          "Name": "Handicapped parking"
+        },
+        {
+          "Code": "PHY28",
+          "Name": "Public areas wheelchair accessible for disabled"
+        },
+        {
+          "Code": "PHY29",
+          "Name": "Service animals allowed on property for people with disabilities"
+        },
+        {
+          "Code": "PHY71",
+          "Name": "Staff trained in service to disabled guests"
+        },
+        {
+          "Code": "PHY45",
+          "Name": "Closed caption TV"
+        },
+        {
+          "Code": "HAC224",
+          "Name": "Pets allowed"
+        },
+        {
+          "Code": "HAC218",
+          "Name": "Children welcome"
+        },
+        {
+          "Code": "HAC78",
+          "Name": "Safe deposit box"
+        },
+        {
+          "Code": "HAC352",
+          "Name": ""
+        },
+        {
+          "Code": "HAC33",
+          "Name": "Elevators"
+        },
+        {
+          "Code": "HAC76",
+          "Name": "Restaurant"
+        },
+        {
+          "Code": "HAC165",
+          "Name": "Lounges/bars"
+        },
+        {
+          "Code": "HAC68",
+          "Name": "Parking"
+        },
+        {
+          "Code": "HAC223",
+          "Name": "Internet services"
+        },
+        {
+          "Code": "HAC222",
+          "Name": "Free high speed internet connection"
+        },
+        {
+          "Code": "HAC221",
+          "Name": "Hotspots"
+        },
+        {
+          "Code": "HAC178",
+          "Name": "High speed internet access for laptop in public areas"
+        },
+        {
+          "Code": "HAC179",
+          "Name": "Wireless internet connection in public areas"
+        },
+        {
+          "Code": "",
+          "Name": ""
+        }
+      ],
+      "RoomAmenitiesCollection": [
+        {
+          "Code": "RMA57",
+          "Name": "Jacuzzi"
+        },
+        {
+          "Code": "RMA50",
+          "Name": "Hairdryer"
+        },
+        {
+          "Code": "RMA50",
+          "Name": "Hairdryer"
+        },
+        {
+          "Code": "RMA50",
+          "Name": "Hairdryer"
+        },
+        {
+          "Code": "RMA50",
+          "Name": "Hairdryer"
+        },
+        {
+          "Code": "RMA50",
+          "Name": "Hairdryer"
+        }
+      ],
+      "Latitude": "41.29479",
+      "Longitude": "-72.91934",
+      "PolicyType": null,
+      "PaymentTerms": null,
+      "HotelAwards": [],
+      "PaymentDetails": null,
+      "Rooms": [],
+      "KeyCollectionInfo": null,
+      "HotelType": null,
+      "GuestCount": 2,
+      "HotelFeatures": []
+    },
+    {
+      "Id": "517ff92a-0e6c-4a75-9509-c33a290f8e66",
+      "CurrencyCode": "USD",
+      "DailyRatePerRoom": 237.6,
+      "CheckInDate": "2022-03-09T00:00:00",
+      "CheckOutDate": "2022-03-17T00:00:00",
+      "CheckInTime": null,
+      "CheckOutTime": null,
+      "ChainName": "Omni",
+      "ChainCode": "OM",
+      "HotelName": "OMNI NEW HAVEN HOTEL AT YALE",
+      "HotelCode": "YAL",
+      "HotelCodeContext": "1A",
+      "HotelAddress": null,
+      "HotelMainImage": "https://d2573qu6qrjt8c.cloudfront.net/B5ECDCD5B3384ED3B7F46AA8023C71E7/J.JPEG",
+      "HotelImages": [],
+      "HotelMainText": [],
+      "HotelDescription": [
+        "At this time there are service limitations in place at Omni New Haven Hotel at Yale. For a full list of limitations please see: https://www.omnihotels.com/hotels/new-haven-yale/property-details/updated-policies-servicesOur top priority has always been, and will continue to be, the safety and well-being of its associates and guests. Additional steps will be taken for associates to ensure all are adhering to local government requirements. We continue to update our already thorough cleaning guidelines and implemented additional processes and procedures to ensure the health, safety and comfort of our guests as part of the Omni Safe & Clean initiative. For more information, see Omni Safe & Clean at https://www.omnihotels.com/omni-safe-and-clean The Omni New Haven at Yale offers sophisticated yet refined style in an atmosphere of luxurious comfort complemented with polished service. Situated in the heart of New Haven the hotel is just steps from the historic campus of Yale University and New Haven Town Green. Beautifully appointed guest rooms feature plush bedding with fluffy duvets and offer views of either the historic sites on the Yale University campus or Long Island Sound. Internet access is available free of charge in public areas. Our rooftop restaurant, John Davenport's Restaurant offers cuisine with a New England flair enhanced with stunning views of the city. The hotel is within walking distance of a fine selection of theaters, shops, boutiques, and a variety of restaurants. A short drive away, guests can enjoy Connecticuts casinos, golfing, quaint sea side villages and outlet shopping. Union Station, offering rail service to Boston and New York City, is close by while Hartford Bradley International Airport is 50 miles away. Hotel is 100 percent smoke free. At this time there are service limitations in place at Omni New Haven Hotel at Yale. For a full list of limitations please see: https://www.omnihotels.com/hotels/new-haven-yale/property-details/updated-policies-services. At Omni Hotels and Resorts, the health and safety of our guests and associates has always been, and always will be, our top priority. COVID-19 has changed every facet of our world and the way we do business. In an effort to Stay A Part of Safety, we have updated our already thorough cleaning guidelines and implemented additional processes and procedures to ensure your health, safety and comfort as part of the new Omni Safe and Clean initiative. https://www.omnihotels.com/omni-safe-and-clean. The Omni New Haven is located in the heart of the city across from historic New Haven Green and just one block from the center of the Yale campus. Nearby are museums and the Shubert Theatre and College Street Music Hall, as well as numerous restaurants and galleries plus boutiques. Union Station offering Amtrak and Metro North Rail Service is 2 miles from the hotel while Hartford Bradley International Airport is 50 miles away. New Haven Tweed Airport is a 10 minute drive from the hotel. The property complies with American Disabilities Act guidelines. Total tax is 15 percent. Tax Breakdown-7.5 percent Sales tax and 7.5 percent Occupancy tax per room per night. "
+      ],
+      "LocationDescription": null,
+      "AttractionDescription": null,
+      "RoomInfoDescription": null,
+      "Recreation": [],
+      "OnSiteServices": null,
+      "HotelPhone": "",
+      "HotelFax": "",
+      "HotelCityCode": "HVN",
+      "HotelAmenities": {
+        "HAC1": "24-hour front desk",
+        "PHY39": "Telephone for hearing impaired",
+        "PHY45": "Closed caption TV",
+        "PHY38": "Grab bars in bathroom",
+        "PHY102": "Accessible baths",
+        "PHY50": "Handicapped parking",
+        "PHY42": "Wheelchair accessible elevators",
+        "SEC9": "Complies with Local/State/Federal fire laws",
+        "SEC93": "U.S. Fire Safety compliant",
+        "SEC89": "Fire extinguishers in public areas",
+        "SEC19": "Emergency lighting",
+        "SEC54": "Sprinklers in public areas",
+        "SEC41": "Room access through interior corridor",
+        "SEC22": "Fire detectors in public areas",
+        "SEC50": "Smoke detector in public areas",
+        "SEC62": "Video cameras in public areas",
+        "SEC34": "Patrolled parking area",
+        "SEC57": "Staff trained in first aid",
+        "HAC76": "Restaurant",
+        "HAC78": "Safe deposit box",
+        "HAC58": "Laundry/Valet service",
+        "HAC218": "Children welcome",
+        "HAC224": "Pets allowed",
+        "HAC201": "Baggage hold",
+        "HAC22": "Concierge desk",
+        "HAC104": "Wedding services",
+        "HAC33": "Elevators",
+        "HAC106": "Bell staff/porter",
+        "HAC100": "Wakeup service",
+        "HAC113": "120 AC",
+        "HAC7": "ATM/Cash machine",
+        "HAC52": "Ice machine",
+        "HAC45": "Gift/News stand",
+        "HAC220": "Hotel does not provide pornographic films/TV",
+        "HAC191": "Ballroom",
+        "HAC105": "Banquet facilities",
+        "HAC26": "Currency exchange",
+        "HAC103": "Multilingual staff",
+        "HAC198": "Non-smoking rooms (generic)",
+        "HAC53": "Indoor parking",
+        "HAC68": "Parking",
+        "HAC97": "Valet parking ",
+        "HAC352": "",
+        "HAC20": "Coffee shop",
+        "BUS46": "Meeting/board rooms",
+        "BUS49": "Secretarial services",
+        "BUS39": "Business center",
+        "BUS37": "Audio visual equipment",
+        "BUS2": "Copier",
+        "BUS28": "Printer",
+        "HAC173": "Breakfast served in restaurant",
+        "HAC226": "Catering services",
+        "BUS80": "Local calls"
+      },
+      "RoomAmenities": {
+        "RMA86": "Queen bed",
+        "RMA161": "Accessible room",
+        "RMA221": "Handicap room",
+        "RMA2": "Air conditioning",
+        "RMA3": "Alarm clock",
+        "RMA5": "AM/FM radio",
+        "RMA10": "Bathrobe",
+        "RMA11": "Bathroom amenities",
+        "RMA18": "Cable television",
+        "RMA19": "Coffee/Tea maker",
+        "RMA20": "Color television",
+        "RMA29": "Desk with lamp",
+        "RMA30": "Dining guide",
+        "RMA39": "Fire alarm",
+        "RMA40": "Fire alarm with light",
+        "RMA50": "Hairdryer",
+        "RMA55": "Iron",
+        "RMA56": "Ironing board",
+        "RMA74": "Non-smoking",
+        "RMA90": "Remote control television",
+        "RMA92": "Safe",
+        "RMA100": "Smoke detectors",
+        "RMA107": "Telephone",
+        "RMA118": "Voice mail",
+        "RMA119": "Wake-up calls",
+        "RMA133": "Desk with electrical outlet",
+        "RMA140": "Pets allowed",
+        "RMA153": "Non-refundable charge for pets",
+        "RMA166": "Self-controlled heating/cooling system",
+        "RMA234": "Luxury linen type",
+        "RMA251": "TV",
+        "RMA58": "King bed",
+        "RMA85": "Private bathroom",
+        "RMA102": "Sofa bed",
+        "RMA185": "Family/oversized room",
+        "RMA15": "Bathtub/shower combination",
+        "RMA28": "Desk",
+        "RMA126": "Air conditioning individually controlled in room",
+        "RMA230": "Chair provided with desk"
+      },
+      "HotelAmenitiesCollection": [
+        {
+          "Code": "HAC1",
+          "Name": "24-hour front desk"
+        },
+        {
+          "Code": "PHY39",
+          "Name": "Telephone for hearing impaired"
+        },
+        {
+          "Code": "PHY45",
+          "Name": "Closed caption TV"
+        },
+        {
+          "Code": "PHY38",
+          "Name": "Grab bars in bathroom"
+        },
+        {
+          "Code": "PHY102",
+          "Name": "Accessible baths"
+        },
+        {
+          "Code": "PHY50",
+          "Name": "Handicapped parking"
+        },
+        {
+          "Code": "PHY42",
+          "Name": "Wheelchair accessible elevators"
+        },
+        {
+          "Code": "SEC9",
+          "Name": "Complies with Local/State/Federal fire laws"
+        },
+        {
+          "Code": "SEC93",
+          "Name": "U.S. Fire Safety compliant"
+        },
+        {
+          "Code": "SEC89",
+          "Name": "Fire extinguishers in public areas"
+        },
+        {
+          "Code": "SEC19",
+          "Name": "Emergency lighting"
+        },
+        {
+          "Code": "SEC54",
+          "Name": "Sprinklers in public areas"
+        },
+        {
+          "Code": "SEC41",
+          "Name": "Room access through interior corridor"
+        },
+        {
+          "Code": "SEC22",
+          "Name": "Fire detectors in public areas"
+        },
+        {
+          "Code": "SEC50",
+          "Name": "Smoke detector in public areas"
+        },
+        {
+          "Code": "SEC62",
+          "Name": "Video cameras in public areas"
+        },
+        {
+          "Code": "SEC34",
+          "Name": "Patrolled parking area"
+        },
+        {
+          "Code": "SEC57",
+          "Name": "Staff trained in first aid"
+        },
+        {
+          "Code": "HAC76",
+          "Name": "Restaurant"
+        },
+        {
+          "Code": "HAC78",
+          "Name": "Safe deposit box"
+        },
+        {
+          "Code": "HAC58",
+          "Name": "Laundry/Valet service"
+        },
+        {
+          "Code": "HAC218",
+          "Name": "Children welcome"
+        },
+        {
+          "Code": "HAC224",
+          "Name": "Pets allowed"
+        },
+        {
+          "Code": "HAC201",
+          "Name": "Baggage hold"
+        },
+        {
+          "Code": "HAC22",
+          "Name": "Concierge desk"
+        },
+        {
+          "Code": "HAC104",
+          "Name": "Wedding services"
+        },
+        {
+          "Code": "HAC33",
+          "Name": "Elevators"
+        },
+        {
+          "Code": "HAC106",
+          "Name": "Bell staff/porter"
+        },
+        {
+          "Code": "HAC100",
+          "Name": "Wakeup service"
+        },
+        {
+          "Code": "HAC113",
+          "Name": "120 AC"
+        },
+        {
+          "Code": "HAC7",
+          "Name": "ATM/Cash machine"
+        },
+        {
+          "Code": "HAC52",
+          "Name": "Ice machine"
+        },
+        {
+          "Code": "HAC45",
+          "Name": "Gift/News stand"
+        },
+        {
+          "Code": "HAC220",
+          "Name": "Hotel does not provide pornographic films/TV"
+        },
+        {
+          "Code": "HAC191",
+          "Name": "Ballroom"
+        },
+        {
+          "Code": "HAC105",
+          "Name": "Banquet facilities"
+        },
+        {
+          "Code": "HAC26",
+          "Name": "Currency exchange"
+        },
+        {
+          "Code": "HAC103",
+          "Name": "Multilingual staff"
+        },
+        {
+          "Code": "HAC198",
+          "Name": "Non-smoking rooms (generic)"
+        },
+        {
+          "Code": "HAC53",
+          "Name": "Indoor parking"
+        },
+        {
+          "Code": "HAC68",
+          "Name": "Parking"
+        },
+        {
+          "Code": "HAC97",
+          "Name": "Valet parking "
+        },
+        {
+          "Code": "HAC352",
+          "Name": ""
+        },
+        {
+          "Code": "HAC20",
+          "Name": "Coffee shop"
+        },
+        {
+          "Code": "BUS46",
+          "Name": "Meeting/board rooms"
+        },
+        {
+          "Code": "BUS49",
+          "Name": "Secretarial services"
+        },
+        {
+          "Code": "BUS39",
+          "Name": "Business center"
+        },
+        {
+          "Code": "BUS37",
+          "Name": "Audio visual equipment"
+        },
+        {
+          "Code": "BUS2",
+          "Name": "Copier"
+        },
+        {
+          "Code": "BUS28",
+          "Name": "Printer"
+        },
+        {
+          "Code": "HAC173",
+          "Name": "Breakfast served in restaurant"
+        },
+        {
+          "Code": "HAC226",
+          "Name": "Catering services"
+        },
+        {
+          "Code": "BUS80",
+          "Name": "Local calls"
+        }
+      ],
+      "RoomAmenitiesCollection": [
+        {
+          "Code": "RMA86",
+          "Name": "Queen bed"
+        },
+        {
+          "Code": "RMA161",
+          "Name": "Accessible room"
+        },
+        {
+          "Code": "RMA221",
+          "Name": "Handicap room"
+        },
+        {
+          "Code": "RMA2",
+          "Name": "Air conditioning"
+        },
+        {
+          "Code": "RMA3",
+          "Name": "Alarm clock"
+        },
+        {
+          "Code": "RMA5",
+          "Name": "AM/FM radio"
+        },
+        {
+          "Code": "RMA10",
+          "Name": "Bathrobe"
+        },
+        {
+          "Code": "RMA11",
+          "Name": "Bathroom amenities"
+        },
+        {
+          "Code": "RMA18",
+          "Name": "Cable television"
+        },
+        {
+          "Code": "RMA19",
+          "Name": "Coffee/Tea maker"
+        },
+        {
+          "Code": "RMA20",
+          "Name": "Color television"
+        },
+        {
+          "Code": "RMA29",
+          "Name": "Desk with lamp"
+        },
+        {
+          "Code": "RMA30",
+          "Name": "Dining guide"
+        },
+        {
+          "Code": "RMA39",
+          "Name": "Fire alarm"
+        },
+        {
+          "Code": "RMA40",
+          "Name": "Fire alarm with light"
+        },
+        {
+          "Code": "RMA50",
+          "Name": "Hairdryer"
+        },
+        {
+          "Code": "RMA55",
+          "Name": "Iron"
+        },
+        {
+          "Code": "RMA56",
+          "Name": "Ironing board"
+        },
+        {
+          "Code": "RMA74",
+          "Name": "Non-smoking"
+        },
+        {
+          "Code": "RMA90",
+          "Name": "Remote control television"
+        },
+        {
+          "Code": "RMA92",
+          "Name": "Safe"
+        },
+        {
+          "Code": "RMA100",
+          "Name": "Smoke detectors"
+        },
+        {
+          "Code": "RMA107",
+          "Name": "Telephone"
+        },
+        {
+          "Code": "RMA118",
+          "Name": "Voice mail"
+        },
+        {
+          "Code": "RMA119",
+          "Name": "Wake-up calls"
+        },
+        {
+          "Code": "RMA133",
+          "Name": "Desk with electrical outlet"
+        },
+        {
+          "Code": "RMA140",
+          "Name": "Pets allowed"
+        },
+        {
+          "Code": "RMA153",
+          "Name": "Non-refundable charge for pets"
+        },
+        {
+          "Code": "RMA166",
+          "Name": "Self-controlled heating/cooling system"
+        },
+        {
+          "Code": "RMA234",
+          "Name": "Luxury linen type"
+        },
+        {
+          "Code": "RMA251",
+          "Name": "TV"
+        },
+        {
+          "Code": "RMA58",
+          "Name": "King bed"
+        },
+        {
+          "Code": "RMA85",
+          "Name": "Private bathroom"
+        },
+        {
+          "Code": "RMA2",
+          "Name": "Air conditioning"
+        },
+        {
+          "Code": "RMA3",
+          "Name": "Alarm clock"
+        },
+        {
+          "Code": "RMA5",
+          "Name": "AM/FM radio"
+        },
+        {
+          "Code": "RMA10",
+          "Name": "Bathrobe"
+        },
+        {
+          "Code": "RMA11",
+          "Name": "Bathroom amenities"
+        },
+        {
+          "Code": "RMA18",
+          "Name": "Cable television"
+        },
+        {
+          "Code": "RMA19",
+          "Name": "Coffee/Tea maker"
+        },
+        {
+          "Code": "RMA20",
+          "Name": "Color television"
+        },
+        {
+          "Code": "RMA29",
+          "Name": "Desk with lamp"
+        },
+        {
+          "Code": "RMA30",
+          "Name": "Dining guide"
+        },
+        {
+          "Code": "RMA39",
+          "Name": "Fire alarm"
+        },
+        {
+          "Code": "RMA40",
+          "Name": "Fire alarm with light"
+        },
+        {
+          "Code": "RMA50",
+          "Name": "Hairdryer"
+        },
+        {
+          "Code": "RMA55",
+          "Name": "Iron"
+        },
+        {
+          "Code": "RMA56",
+          "Name": "Ironing board"
+        },
+        {
+          "Code": "RMA74",
+          "Name": "Non-smoking"
+        },
+        {
+          "Code": "RMA90",
+          "Name": "Remote control television"
+        },
+        {
+          "Code": "RMA92",
+          "Name": "Safe"
+        },
+        {
+          "Code": "RMA100",
+          "Name": "Smoke detectors"
+        },
+        {
+          "Code": "RMA107",
+          "Name": "Telephone"
+        },
+        {
+          "Code": "RMA118",
+          "Name": "Voice mail"
+        },
+        {
+          "Code": "RMA119",
+          "Name": "Wake-up calls"
+        },
+        {
+          "Code": "RMA133",
+          "Name": "Desk with electrical outlet"
+        },
+        {
+          "Code": "RMA140",
+          "Name": "Pets allowed"
+        },
+        {
+          "Code": "RMA153",
+          "Name": "Non-refundable charge for pets"
+        },
+        {
+          "Code": "RMA166",
+          "Name": "Self-controlled heating/cooling system"
+        },
+        {
+          "Code": "RMA234",
+          "Name": "Luxury linen type"
+        },
+        {
+          "Code": "RMA251",
+          "Name": "TV"
+        },
+        {
+          "Code": "RMA3",
+          "Name": "Alarm clock"
+        },
+        {
+          "Code": "RMA5",
+          "Name": "AM/FM radio"
+        },
+        {
+          "Code": "RMA10",
+          "Name": "Bathrobe"
+        },
+        {
+          "Code": "RMA11",
+          "Name": "Bathroom amenities"
+        },
+        {
+          "Code": "RMA18",
+          "Name": "Cable television"
+        },
+        {
+          "Code": "RMA19",
+          "Name": "Coffee/Tea maker"
+        },
+        {
+          "Code": "RMA20",
+          "Name": "Color television"
+        },
+        {
+          "Code": "RMA29",
+          "Name": "Desk with lamp"
+        },
+        {
+          "Code": "RMA30",
+          "Name": "Dining guide"
+        },
+        {
+          "Code": "RMA39",
+          "Name": "Fire alarm"
+        },
+        {
+          "Code": "RMA40",
+          "Name": "Fire alarm with light"
+        },
+        {
+          "Code": "RMA50",
+          "Name": "Hairdryer"
+        },
+        {
+          "Code": "RMA74",
+          "Name": "Non-smoking"
+        },
+        {
+          "Code": "RMA90",
+          "Name": "Remote control television"
+        },
+        {
+          "Code": "RMA92",
+          "Name": "Safe"
+        },
+        {
+          "Code": "RMA100",
+          "Name": "Smoke detectors"
+        },
+        {
+          "Code": "RMA107",
+          "Name": "Telephone"
+        },
+        {
+          "Code": "RMA118",
+          "Name": "Voice mail"
+        },
+        {
+          "Code": "RMA119",
+          "Name": "Wake-up calls"
+        },
+        {
+          "Code": "RMA140",
+          "Name": "Pets allowed"
+        },
+        {
+          "Code": "RMA153",
+          "Name": "Non-refundable charge for pets"
+        },
+        {
+          "Code": "RMA166",
+          "Name": "Self-controlled heating/cooling system"
+        },
+        {
+          "Code": "RMA234",
+          "Name": "Luxury linen type"
+        },
+        {
+          "Code": "RMA251",
+          "Name": "TV"
+        },
+        {
+          "Code": "RMA2",
+          "Name": "Air conditioning"
+        },
+        {
+          "Code": "RMA133",
+          "Name": "Desk with electrical outlet"
+        },
+        {
+          "Code": "RMA55",
+          "Name": "Iron"
+        },
+        {
+          "Code": "RMA56",
+          "Name": "Ironing board"
+        },
+        {
+          "Code": "RMA86",
+          "Name": "Queen bed"
+        },
+        {
+          "Code": "RMA2",
+          "Name": "Air conditioning"
+        },
+        {
+          "Code": "RMA3",
+          "Name": "Alarm clock"
+        },
+        {
+          "Code": "RMA5",
+          "Name": "AM/FM radio"
+        },
+        {
+          "Code": "RMA10",
+          "Name": "Bathrobe"
+        },
+        {
+          "Code": "RMA11",
+          "Name": "Bathroom amenities"
+        },
+        {
+          "Code": "RMA18",
+          "Name": "Cable television"
+        },
+        {
+          "Code": "RMA19",
+          "Name": "Coffee/Tea maker"
+        },
+        {
+          "Code": "RMA20",
+          "Name": "Color television"
+        },
+        {
+          "Code": "RMA29",
+          "Name": "Desk with lamp"
+        },
+        {
+          "Code": "RMA30",
+          "Name": "Dining guide"
+        },
+        {
+          "Code": "RMA39",
+          "Name": "Fire alarm"
+        },
+        {
+          "Code": "RMA40",
+          "Name": "Fire alarm with light"
+        },
+        {
+          "Code": "RMA50",
+          "Name": "Hairdryer"
+        },
+        {
+          "Code": "RMA55",
+          "Name": "Iron"
+        },
+        {
+          "Code": "RMA56",
+          "Name": "Ironing board"
+        },
+        {
+          "Code": "RMA74",
+          "Name": "Non-smoking"
+        },
+        {
+          "Code": "RMA90",
+          "Name": "Remote control television"
+        },
+        {
+          "Code": "RMA92",
+          "Name": "Safe"
+        },
+        {
+          "Code": "RMA100",
+          "Name": "Smoke detectors"
+        },
+        {
+          "Code": "RMA107",
+          "Name": "Telephone"
+        },
+        {
+          "Code": "RMA118",
+          "Name": "Voice mail"
+        },
+        {
+          "Code": "RMA119",
+          "Name": "Wake-up calls"
+        },
+        {
+          "Code": "RMA133",
+          "Name": "Desk with electrical outlet"
+        },
+        {
+          "Code": "RMA140",
+          "Name": "Pets allowed"
+        },
+        {
+          "Code": "RMA153",
+          "Name": "Non-refundable charge for pets"
+        },
+        {
+          "Code": "RMA166",
+          "Name": "Self-controlled heating/cooling system"
+        },
+        {
+          "Code": "RMA234",
+          "Name": "Luxury linen type"
+        },
+        {
+          "Code": "RMA251",
+          "Name": "TV"
+        },
+        {
+          "Code": "RMA58",
+          "Name": "King bed"
+        },
+        {
+          "Code": "RMA2",
+          "Name": "Air conditioning"
+        },
+        {
+          "Code": "RMA3",
+          "Name": "Alarm clock"
+        },
+        {
+          "Code": "RMA5",
+          "Name": "AM/FM radio"
+        },
+        {
+          "Code": "RMA10",
+          "Name": "Bathrobe"
+        },
+        {
+          "Code": "RMA11",
+          "Name": "Bathroom amenities"
+        },
+        {
+          "Code": "RMA18",
+          "Name": "Cable television"
+        },
+        {
+          "Code": "RMA19",
+          "Name": "Coffee/Tea maker"
+        },
+        {
+          "Code": "RMA20",
+          "Name": "Color television"
+        },
+        {
+          "Code": "RMA29",
+          "Name": "Desk with lamp"
+        },
+        {
+          "Code": "RMA30",
+          "Name": "Dining guide"
+        },
+        {
+          "Code": "RMA39",
+          "Name": "Fire alarm"
+        },
+        {
+          "Code": "RMA40",
+          "Name": "Fire alarm with light"
+        },
+        {
+          "Code": "RMA50",
+          "Name": "Hairdryer"
+        },
+        {
+          "Code": "RMA55",
+          "Name": "Iron"
+        },
+        {
+          "Code": "RMA56",
+          "Name": "Ironing board"
+        },
+        {
+          "Code": "RMA74",
+          "Name": "Non-smoking"
+        },
+        {
+          "Code": "RMA90",
+          "Name": "Remote control television"
+        },
+        {
+          "Code": "RMA92",
+          "Name": "Safe"
+        },
+        {
+          "Code": "RMA100",
+          "Name": "Smoke detectors"
+        },
+        {
+          "Code": "RMA107",
+          "Name": "Telephone"
+        },
+        {
+          "Code": "RMA118",
+          "Name": "Voice mail"
+        },
+        {
+          "Code": "RMA119",
+          "Name": "Wake-up calls"
+        },
+        {
+          "Code": "RMA133",
+          "Name": "Desk with electrical outlet"
+        },
+        {
+          "Code": "RMA140",
+          "Name": "Pets allowed"
+        },
+        {
+          "Code": "RMA153",
+          "Name": "Non-refundable charge for pets"
+        },
+        {
+          "Code": "RMA166",
+          "Name": "Self-controlled heating/cooling system"
+        },
+        {
+          "Code": "RMA234",
+          "Name": "Luxury linen type"
+        },
+        {
+          "Code": "RMA251",
+          "Name": "TV"
+        },
+        {
+          "Code": "RMA102",
+          "Name": "Sofa bed"
+        },
+        {
+          "Code": "RMA185",
+          "Name": "Family/oversized room"
+        },
+        {
+          "Code": "RMA2",
+          "Name": "Air conditioning"
+        },
+        {
+          "Code": "RMA3",
+          "Name": "Alarm clock"
+        },
+        {
+          "Code": "RMA5",
+          "Name": "AM/FM radio"
+        },
+        {
+          "Code": "RMA10",
+          "Name": "Bathrobe"
+        },
+        {
+          "Code": "RMA11",
+          "Name": "Bathroom amenities"
+        },
+        {
+          "Code": "RMA18",
+          "Name": "Cable television"
+        },
+        {
+          "Code": "RMA19",
+          "Name": "Coffee/Tea maker"
+        },
+        {
+          "Code": "RMA20",
+          "Name": "Color television"
+        },
+        {
+          "Code": "RMA29",
+          "Name": "Desk with lamp"
+        },
+        {
+          "Code": "RMA30",
+          "Name": "Dining guide"
+        },
+        {
+          "Code": "RMA39",
+          "Name": "Fire alarm"
+        },
+        {
+          "Code": "RMA40",
+          "Name": "Fire alarm with light"
+        },
+        {
+          "Code": "RMA50",
+          "Name": "Hairdryer"
+        },
+        {
+          "Code": "RMA55",
+          "Name": "Iron"
+        },
+        {
+          "Code": "RMA56",
+          "Name": "Ironing board"
+        },
+        {
+          "Code": "RMA74",
+          "Name": "Non-smoking"
+        },
+        {
+          "Code": "RMA90",
+          "Name": "Remote control television"
+        },
+        {
+          "Code": "RMA92",
+          "Name": "Safe"
+        },
+        {
+          "Code": "RMA100",
+          "Name": "Smoke detectors"
+        },
+        {
+          "Code": "RMA107",
+          "Name": "Telephone"
+        },
+        {
+          "Code": "RMA118",
+          "Name": "Voice mail"
+        },
+        {
+          "Code": "RMA119",
+          "Name": "Wake-up calls"
+        },
+        {
+          "Code": "RMA133",
+          "Name": "Desk with electrical outlet"
+        },
+        {
+          "Code": "RMA140",
+          "Name": "Pets allowed"
+        },
+        {
+          "Code": "RMA153",
+          "Name": "Non-refundable charge for pets"
+        },
+        {
+          "Code": "RMA166",
+          "Name": "Self-controlled heating/cooling system"
+        },
+        {
+          "Code": "RMA234",
+          "Name": "Luxury linen type"
+        },
+        {
+          "Code": "RMA251",
+          "Name": "TV"
+        },
+        {
+          "Code": "RMA58",
+          "Name": "King bed"
+        },
+        {
+          "Code": "RMA2",
+          "Name": "Air conditioning"
+        },
+        {
+          "Code": "RMA3",
+          "Name": "Alarm clock"
+        },
+        {
+          "Code": "RMA5",
+          "Name": "AM/FM radio"
+        },
+        {
+          "Code": "RMA10",
+          "Name": "Bathrobe"
+        },
+        {
+          "Code": "RMA11",
+          "Name": "Bathroom amenities"
+        },
+        {
+          "Code": "RMA18",
+          "Name": "Cable television"
+        },
+        {
+          "Code": "RMA19",
+          "Name": "Coffee/Tea maker"
+        },
+        {
+          "Code": "RMA20",
+          "Name": "Color television"
+        },
+        {
+          "Code": "RMA29",
+          "Name": "Desk with lamp"
+        },
+        {
+          "Code": "RMA30",
+          "Name": "Dining guide"
+        },
+        {
+          "Code": "RMA39",
+          "Name": "Fire alarm"
+        },
+        {
+          "Code": "RMA40",
+          "Name": "Fire alarm with light"
+        },
+        {
+          "Code": "RMA50",
+          "Name": "Hairdryer"
+        },
+        {
+          "Code": "RMA55",
+          "Name": "Iron"
+        },
+        {
+          "Code": "RMA56",
+          "Name": "Ironing board"
+        },
+        {
+          "Code": "RMA74",
+          "Name": "Non-smoking"
+        },
+        {
+          "Code": "RMA90",
+          "Name": "Remote control television"
+        },
+        {
+          "Code": "RMA100",
+          "Name": "Smoke detectors"
+        },
+        {
+          "Code": "RMA107",
+          "Name": "Telephone"
+        },
+        {
+          "Code": "RMA118",
+          "Name": "Voice mail"
+        },
+        {
+          "Code": "RMA119",
+          "Name": "Wake-up calls"
+        },
+        {
+          "Code": "RMA140",
+          "Name": "Pets allowed"
+        },
+        {
+          "Code": "RMA153",
+          "Name": "Non-refundable charge for pets"
+        },
+        {
+          "Code": "RMA92",
+          "Name": "Safe"
+        },
+        {
+          "Code": "RMA133",
+          "Name": "Desk with electrical outlet"
+        },
+        {
+          "Code": "RMA166",
+          "Name": "Self-controlled heating/cooling system"
+        },
+        {
+          "Code": "RMA234",
+          "Name": "Luxury linen type"
+        },
+        {
+          "Code": "RMA251",
+          "Name": "TV"
+        },
+        {
+          "Code": "RMA58",
+          "Name": "King bed"
+        },
+        {
+          "Code": "RMA2",
+          "Name": "Air conditioning"
+        },
+        {
+          "Code": "RMA3",
+          "Name": "Alarm clock"
+        },
+        {
+          "Code": "RMA5",
+          "Name": "AM/FM radio"
+        },
+        {
+          "Code": "RMA10",
+          "Name": "Bathrobe"
+        },
+        {
+          "Code": "RMA11",
+          "Name": "Bathroom amenities"
+        },
+        {
+          "Code": "RMA18",
+          "Name": "Cable television"
+        },
+        {
+          "Code": "RMA19",
+          "Name": "Coffee/Tea maker"
+        },
+        {
+          "Code": "RMA20",
+          "Name": "Color television"
+        },
+        {
+          "Code": "RMA29",
+          "Name": "Desk with lamp"
+        },
+        {
+          "Code": "RMA30",
+          "Name": "Dining guide"
+        },
+        {
+          "Code": "RMA39",
+          "Name": "Fire alarm"
+        },
+        {
+          "Code": "RMA40",
+          "Name": "Fire alarm with light"
+        },
+        {
+          "Code": "RMA50",
+          "Name": "Hairdryer"
+        },
+        {
+          "Code": "RMA55",
+          "Name": "Iron"
+        },
+        {
+          "Code": "RMA56",
+          "Name": "Ironing board"
+        },
+        {
+          "Code": "RMA74",
+          "Name": "Non-smoking"
+        },
+        {
+          "Code": "RMA90",
+          "Name": "Remote control television"
+        },
+        {
+          "Code": "RMA92",
+          "Name": "Safe"
+        },
+        {
+          "Code": "RMA100",
+          "Name": "Smoke detectors"
+        },
+        {
+          "Code": "RMA107",
+          "Name": "Telephone"
+        },
+        {
+          "Code": "RMA118",
+          "Name": "Voice mail"
+        },
+        {
+          "Code": "RMA119",
+          "Name": "Wake-up calls"
+        },
+        {
+          "Code": "RMA133",
+          "Name": "Desk with electrical outlet"
+        },
+        {
+          "Code": "RMA140",
+          "Name": "Pets allowed"
+        },
+        {
+          "Code": "RMA153",
+          "Name": "Non-refundable charge for pets"
+        },
+        {
+          "Code": "RMA166",
+          "Name": "Self-controlled heating/cooling system"
+        },
+        {
+          "Code": "RMA234",
+          "Name": "Luxury linen type"
+        },
+        {
+          "Code": "RMA251",
+          "Name": "TV"
+        },
+        {
+          "Code": "RMA2",
+          "Name": "Air conditioning"
+        },
+        {
+          "Code": "RMA3",
+          "Name": "Alarm clock"
+        },
+        {
+          "Code": "RMA5",
+          "Name": "AM/FM radio"
+        },
+        {
+          "Code": "RMA10",
+          "Name": "Bathrobe"
+        },
+        {
+          "Code": "RMA11",
+          "Name": "Bathroom amenities"
+        },
+        {
+          "Code": "RMA15",
+          "Name": "Bathtub/shower combination"
+        },
+        {
+          "Code": "RMA18",
+          "Name": "Cable television"
+        },
+        {
+          "Code": "RMA19",
+          "Name": "Coffee/Tea maker"
+        },
+        {
+          "Code": "RMA20",
+          "Name": "Color television"
+        },
+        {
+          "Code": "RMA28",
+          "Name": "Desk"
+        },
+        {
+          "Code": "RMA29",
+          "Name": "Desk with lamp"
+        },
+        {
+          "Code": "RMA39",
+          "Name": "Fire alarm"
+        },
+        {
+          "Code": "RMA40",
+          "Name": "Fire alarm with light"
+        },
+        {
+          "Code": "RMA50",
+          "Name": "Hairdryer"
+        },
+        {
+          "Code": "RMA55",
+          "Name": "Iron"
+        },
+        {
+          "Code": "RMA56",
+          "Name": "Ironing board"
+        },
+        {
+          "Code": "RMA74",
+          "Name": "Non-smoking"
+        },
+        {
+          "Code": "RMA85",
+          "Name": "Private bathroom"
+        },
+        {
+          "Code": "RMA90",
+          "Name": "Remote control television"
+        },
+        {
+          "Code": "RMA30",
+          "Name": "Dining guide"
+        },
+        {
+          "Code": "RMA92",
+          "Name": "Safe"
+        },
+        {
+          "Code": "RMA100",
+          "Name": "Smoke detectors"
+        },
+        {
+          "Code": "RMA126",
+          "Name": "Air conditioning individually controlled in room"
+        },
+        {
+          "Code": "RMA153",
+          "Name": "Non-refundable charge for pets"
+        },
+        {
+          "Code": "RMA166",
+          "Name": "Self-controlled heating/cooling system"
+        },
+        {
+          "Code": "RMA230",
+          "Name": "Chair provided with desk"
+        },
+        {
+          "Code": "RMA251",
+          "Name": "TV"
+        },
+        {
+          "Code": "RMA234",
+          "Name": "Luxury linen type"
+        },
+        {
+          "Code": "RMA118",
+          "Name": "Voice mail"
+        },
+        {
+          "Code": "RMA119",
+          "Name": "Wake-up calls"
+        }
+      ],
+      "Latitude": "41.30584",
+      "Longitude": "-72.9274",
+      "PolicyType": null,
+      "PaymentTerms": null,
+      "HotelAwards": [
+        {
+          "Provider": "Luxury",
+          "Rating": "4 Star"
+        },
+        {
+          "Provider": "Mobil",
+          "Rating": "3"
+        }
+      ],
+      "PaymentDetails": null,
+      "Rooms": [],
+      "KeyCollectionInfo": null,
+      "HotelType": null,
+      "GuestCount": 2,
+      "HotelFeatures": []
+    },
+    {
+      "Id": "4c0f0c7c-4af8-4df7-ae20-3d78d07e56e2",
+      "CurrencyCode": "USD",
+      "DailyRatePerRoom": 134.0,
+      "CheckInDate": "2022-03-09T00:00:00",
+      "CheckOutDate": "2022-03-17T00:00:00",
+      "CheckInTime": null,
+      "CheckOutTime": null,
+      "ChainName": "Courtyard by Marriott",
+      "ChainCode": "CY",
+      "HotelName": "COURTYARD NEW HAVEN AT YALE MARRIOTT",
+      "HotelCode": "DTC",
+      "HotelCodeContext": "1A",
+      "HotelAddress": {
+        "CountryCode": "US",
+        "CountryName": null,
+        "ZIP": "06511",
+        "DistrictName": null,
+        "CityName": "New Haven",
+        "StreetAddress": "30 Whalley Avenue",
+        "RegionName": "CT"
+      },
+      "HotelMainImage": "https://d2573qu6qrjt8c.cloudfront.net/413E4031C0F94CFD9F7439478D48CA32/J.JPEG",
+      "HotelImages": [],
+      "HotelMainText": [],
+      "HotelDescription": [
+        "A COURTYARD HOTELS property"
+      ],
+      "LocationDescription": null,
+      "AttractionDescription": null,
+      "RoomInfoDescription": null,
+      "Recreation": [],
+      "OnSiteServices": null,
+      "HotelPhone": "+1 203 777-6221",
+      "HotelFax": "+1 203 772-1089",
+      "HotelCityCode": "HVN",
+      "HotelAmenities": {
+        "HAC37": "Express check-out",
+        "HAC165": "Lounges/bars",
+        "SEC93": "U.S. Fire Safety compliant",
+        "PHY29": "Service animals allowed on property for people with disabilities",
+        "PHY32": "Toilet seat in guest rooms for disabled person",
+        "PHY38": "Grab bars in bathroom",
+        "HAC78": "Safe deposit box",
+        "HAC100": "Wakeup service",
+        "HAC58": "Laundry/Valet service",
+        "HAC1": "24-hour front desk",
+        "HAC52": "Ice machine",
+        "HAC15": "Car rental desk",
+        "HAC39": "Florist",
+        "HAC11": "Bookstore",
+        "HAC104": "Wedding services",
+        "HAC352": "",
+        "HAC198": "Non-smoking rooms (generic)",
+        "HAC68": "Parking",
+        "HAC76": "Restaurant",
+        "HAC222": "Free high speed internet connection",
+        "HAC179": "Wireless internet connection in public areas",
+        "HAC33": "Elevators",
+        "BUS39": "Business center",
+        "BUS28": "Printer",
+        "BUS2": "Copier",
+        "BUS96": "Meeting facilities",
+        "BUS52": "Incoming fax complimentary"
+      },
+      "RoomAmenities": {
+        "RMA51": "High speed internet connection",
+        "RMA54": "Internet access",
+        "RMA123": "Wireless internet connection",
+        "RMA226": "High speed wireless",
+        "RMA74": "Non-smoking",
+        "RMA19": "Coffee/Tea maker",
+        "RMA3": "Alarm clock",
+        "RMA2": "Air conditioning",
+        "RMA126": "Air conditioning individually controlled in room",
+        "RMA92": "Safe",
+        "RMA15": "Bathtub/shower combination",
+        "RMA85": "Private bathroom",
+        "RMA50": "Hairdryer",
+        "RMA240": "Upgraded bathroom amenities",
+        "RMA94": "Separate closet",
+        "RMA55": "Iron",
+        "RMA11": "Bathroom amenities",
+        "RMA132": "Down/feather pillows",
+        "RMA135": "Foam pillows",
+        "RMA102": "Sofa bed",
+        "RMA26": "Cribs",
+        "RMA91": "Rollaway bed",
+        "RMA42": "Free toll free calls",
+        "RMA164": "Mini-refrigerator",
+        "RMA20": "Color television",
+        "RMA18": "Cable television",
+        "RMA227": "Premium movie channels",
+        "RMA139": "List of movie channels available",
+        "RMA158": "CNN available",
+        "RMA136": "HBO available",
+        "RMA134": "ESPN available",
+        "RMA4": "All news channel",
+        "RMA5": "AM/FM radio",
+        "RMA90": "Remote control television",
+        "RMA64": "Large desk",
+        "RMA133": "Desk with electrical outlet",
+        "RMA152": "Spare electrical outlet available at desk",
+        "RMA35": "Electrical current voltage",
+        "RMA95": "Separate modem line available",
+        "RMA107": "Telephone",
+        "RMA118": "Voice mail",
+        "RMA147": "Two-line phone",
+        "RMA72": "Multi-line phone",
+        "RMA103": "Speaker phone",
+        "RMA242": "Instant hot water",
+        "RMA233": "Duvet",
+        "RMA232": "Feather bed",
+        "RMA22": "Connecting rooms",
+        "RMA230": "Chair provided with desk",
+        "RMA174": "Local calls"
+      },
+      "HotelAmenitiesCollection": [
+        {
+          "Code": "HAC37",
+          "Name": "Express check-out"
+        },
+        {
+          "Code": "HAC165",
+          "Name": "Lounges/bars"
+        },
+        {
+          "Code": "SEC93",
+          "Name": "U.S. Fire Safety compliant"
+        },
+        {
+          "Code": "PHY29",
+          "Name": "Service animals allowed on property for people with disabilities"
+        },
+        {
+          "Code": "PHY32",
+          "Name": "Toilet seat in guest rooms for disabled person"
+        },
+        {
+          "Code": "PHY38",
+          "Name": "Grab bars in bathroom"
+        },
+        {
+          "Code": "HAC78",
+          "Name": "Safe deposit box"
+        },
+        {
+          "Code": "HAC100",
+          "Name": "Wakeup service"
+        },
+        {
+          "Code": "HAC58",
+          "Name": "Laundry/Valet service"
+        },
+        {
+          "Code": "HAC1",
+          "Name": "24-hour front desk"
+        },
+        {
+          "Code": "HAC52",
+          "Name": "Ice machine"
+        },
+        {
+          "Code": "HAC15",
+          "Name": "Car rental desk"
+        },
+        {
+          "Code": "HAC39",
+          "Name": "Florist"
+        },
+        {
+          "Code": "HAC11",
+          "Name": "Bookstore"
+        },
+        {
+          "Code": "HAC104",
+          "Name": "Wedding services"
+        },
+        {
+          "Code": "HAC352",
+          "Name": ""
+        },
+        {
+          "Code": "HAC198",
+          "Name": "Non-smoking rooms (generic)"
+        },
+        {
+          "Code": "HAC68",
+          "Name": "Parking"
+        },
+        {
+          "Code": "HAC76",
+          "Name": "Restaurant"
+        },
+        {
+          "Code": "HAC222",
+          "Name": "Free high speed internet connection"
+        },
+        {
+          "Code": "HAC179",
+          "Name": "Wireless internet connection in public areas"
+        },
+        {
+          "Code": "HAC33",
+          "Name": "Elevators"
+        },
+        {
+          "Code": "BUS39",
+          "Name": "Business center"
+        },
+        {
+          "Code": "BUS28",
+          "Name": "Printer"
+        },
+        {
+          "Code": "BUS2",
+          "Name": "Copier"
+        },
+        {
+          "Code": "BUS96",
+          "Name": "Meeting facilities"
+        },
+        {
+          "Code": "BUS52",
+          "Name": "Incoming fax complimentary"
+        }
+      ],
+      "RoomAmenitiesCollection": [
+        {
+          "Code": "RMA51",
+          "Name": "High speed internet connection"
+        },
+        {
+          "Code": "RMA54",
+          "Name": "Internet access"
+        },
+        {
+          "Code": "RMA123",
+          "Name": "Wireless internet connection"
+        },
+        {
+          "Code": "RMA226",
+          "Name": "High speed wireless"
+        },
+        {
+          "Code": "RMA74",
+          "Name": "Non-smoking"
+        },
+        {
+          "Code": "RMA19",
+          "Name": "Coffee/Tea maker"
+        },
+        {
+          "Code": "RMA3",
+          "Name": "Alarm clock"
+        },
+        {
+          "Code": "RMA2",
+          "Name": "Air conditioning"
+        },
+        {
+          "Code": "RMA126",
+          "Name": "Air conditioning individually controlled in room"
+        },
+        {
+          "Code": "RMA92",
+          "Name": "Safe"
+        },
+        {
+          "Code": "RMA15",
+          "Name": "Bathtub/shower combination"
+        },
+        {
+          "Code": "RMA85",
+          "Name": "Private bathroom"
+        },
+        {
+          "Code": "RMA50",
+          "Name": "Hairdryer"
+        },
+        {
+          "Code": "RMA240",
+          "Name": "Upgraded bathroom amenities"
+        },
+        {
+          "Code": "RMA94",
+          "Name": "Separate closet"
+        },
+        {
+          "Code": "RMA55",
+          "Name": "Iron"
+        },
+        {
+          "Code": "RMA11",
+          "Name": "Bathroom amenities"
+        },
+        {
+          "Code": "RMA132",
+          "Name": "Down/feather pillows"
+        },
+        {
+          "Code": "RMA135",
+          "Name": "Foam pillows"
+        },
+        {
+          "Code": "RMA102",
+          "Name": "Sofa bed"
+        },
+        {
+          "Code": "RMA26",
+          "Name": "Cribs"
+        },
+        {
+          "Code": "RMA91",
+          "Name": "Rollaway bed"
+        },
+        {
+          "Code": "RMA42",
+          "Name": "Free toll free calls"
+        },
+        {
+          "Code": "RMA164",
+          "Name": "Mini-refrigerator"
+        },
+        {
+          "Code": "RMA20",
+          "Name": "Color television"
+        },
+        {
+          "Code": "RMA18",
+          "Name": "Cable television"
+        },
+        {
+          "Code": "RMA227",
+          "Name": "Premium movie channels"
+        },
+        {
+          "Code": "RMA139",
+          "Name": "List of movie channels available"
+        },
+        {
+          "Code": "RMA158",
+          "Name": "CNN available"
+        },
+        {
+          "Code": "RMA136",
+          "Name": "HBO available"
+        },
+        {
+          "Code": "RMA134",
+          "Name": "ESPN available"
+        },
+        {
+          "Code": "RMA4",
+          "Name": "All news channel"
+        },
+        {
+          "Code": "RMA5",
+          "Name": "AM/FM radio"
+        },
+        {
+          "Code": "RMA90",
+          "Name": "Remote control television"
+        },
+        {
+          "Code": "RMA64",
+          "Name": "Large desk"
+        },
+        {
+          "Code": "RMA133",
+          "Name": "Desk with electrical outlet"
+        },
+        {
+          "Code": "RMA152",
+          "Name": "Spare electrical outlet available at desk"
+        },
+        {
+          "Code": "RMA35",
+          "Name": "Electrical current voltage"
+        },
+        {
+          "Code": "RMA95",
+          "Name": "Separate modem line available"
+        },
+        {
+          "Code": "RMA107",
+          "Name": "Telephone"
+        },
+        {
+          "Code": "RMA118",
+          "Name": "Voice mail"
+        },
+        {
+          "Code": "RMA147",
+          "Name": "Two-line phone"
+        },
+        {
+          "Code": "RMA72",
+          "Name": "Multi-line phone"
+        },
+        {
+          "Code": "RMA103",
+          "Name": "Speaker phone"
+        },
+        {
+          "Code": "RMA242",
+          "Name": "Instant hot water"
+        },
+        {
+          "Code": "RMA233",
+          "Name": "Duvet"
+        },
+        {
+          "Code": "RMA232",
+          "Name": "Feather bed"
+        },
+        {
+          "Code": "RMA22",
+          "Name": "Connecting rooms"
+        },
+        {
+          "Code": "RMA230",
+          "Name": "Chair provided with desk"
+        },
+        {
+          "Code": "RMA174",
+          "Name": "Local calls"
+        }
+      ],
+      "Latitude": "41.31315",
+      "Longitude": "-72.93364",
+      "PolicyType": null,
+      "PaymentTerms": null,
+      "HotelAwards": [],
+      "PaymentDetails": null,
+      "Rooms": [],
+      "KeyCollectionInfo": null,
+      "HotelType": null,
+      "GuestCount": 2,
+      "HotelFeatures": []
+    },
+    {
+      "Id": "aeac2487-b1e0-4cca-9cab-1dc081eda675",
+      "CurrencyCode": "USD",
+      "DailyRatePerRoom": 364.0,
+      "CheckInDate": "2022-03-09T00:00:00",
+      "CheckOutDate": "2022-03-17T00:00:00",
+      "CheckInTime": null,
+      "CheckOutTime": null,
+      "ChainName": "Synxis Corporation",
+      "ChainCode": "YX",
+      "HotelName": "THE BLAKE HOTEL",
+      "HotelCode": "TBH",
+      "HotelCodeContext": "1A",
+      "HotelAddress": {
+        "CountryCode": "US",
+        "CountryName": null,
+        "ZIP": "06510",
+        "DistrictName": null,
+        "CityName": "NEW HAVEN",
+        "StreetAddress": "9 HIGH STREET",
+        "RegionName": "CT"
+      },
+      "HotelMainImage": "",
+      "HotelImages": [],
+      "HotelMainText": [],
+      "HotelDescription": [
+        "The Blake Hotel is a boutique hospitality space where you are meant to live your best life Downtown New Haven location SERVICE CHARGES MAY APPLY - PLEASE CHECK SEAMLESS AVAILABILITY OR PRICING RESPONSE/DISPLAY TO GET SERVICE CHARGE DETAILS TAXES AND SERVICE CHARGES MAY APPLY - PLEASE CHECK SEAMLESS AVAILABILITY OR PRICING RESPONSE/DISPLAY TO GET TAXES DETAILS "
+      ],
+      "LocationDescription": null,
+      "AttractionDescription": null,
+      "RoomInfoDescription": null,
+      "Recreation": [],
+      "OnSiteServices": null,
+      "HotelPhone": "1-203-390-5352",
+      "HotelFax": "",
+      "HotelCityCode": "HVN",
+      "HotelAmenities": {
+        "HAC224": "Pets allowed",
+        "BUS96": "Meeting facilities",
+        "BUS37": "Audio visual equipment"
+      },
+      "RoomAmenities": {
+        "RMA59": "Kitchen"
+      },
+      "HotelAmenitiesCollection": [
+        {
+          "Code": "HAC224",
+          "Name": "Pets allowed"
+        },
+        {
+          "Code": "BUS96",
+          "Name": "Meeting facilities"
+        },
+        {
+          "Code": "BUS37",
+          "Name": "Audio visual equipment"
+        }
+      ],
+      "RoomAmenitiesCollection": [
+        {
+          "Code": "RMA59",
+          "Name": "Kitchen"
+        },
+        {
+          "Code": "RMA59",
+          "Name": "Kitchen"
+        },
+        {
+          "Code": "RMA59",
+          "Name": "Kitchen"
+        },
+        {
+          "Code": "RMA59",
+          "Name": "Kitchen"
+        },
+        {
+          "Code": "RMA59",
+          "Name": "Kitchen"
+        },
+        {
+          "Code": "RMA59",
+          "Name": "Kitchen"
+        },
+        {
+          "Code": "RMA59",
+          "Name": "Kitchen"
+        },
+        {
+          "Code": "RMA59",
+          "Name": "Kitchen"
+        },
+        {
+          "Code": "RMA59",
+          "Name": "Kitchen"
+        }
+      ],
+      "Latitude": "41.3061",
+      "Longitude": "-72.93165",
+      "PolicyType": null,
+      "PaymentTerms": null,
+      "HotelAwards": [],
+      "PaymentDetails": null,
+      "Rooms": [],
+      "KeyCollectionInfo": null,
+      "HotelType": null,
+      "GuestCount": 2,
+      "HotelFeatures": []
+    }
+  ],
+  "MinPrice": 647.92,
+  "MaxPrice": 2912.0,
+  "PaginationData": {
+    "CurrentPage": 0,
+    "TotalCount": 0,
+    "PageSize": 0,
+    "TotalPages": 0,
+    "HasPreviousPage": false,
+    "HasNextPage": false
+  }
+}

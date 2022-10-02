@@ -1,0 +1,146 @@
+[
+  {
+    "Code": "NYC",
+    "CountryCode": "US",
+    "Country": "United States of America",
+    "Region": "NY",
+    "Name": null,
+    "Type": "City",
+    "PlaceId": null
+  },
+  {
+    "Code": "JFK",
+    "CountryCode": "US",
+    "Country": "United States of America",
+    "Region": "NY",
+    "Name": "John F Kennedy",
+    "Type": "Destination",
+    "PlaceId": null
+  },
+  {
+    "Code": "EWR",
+    "CountryCode": "US",
+    "Country": "United States of America",
+    "Region": "NJ",
+    "Name": "Newark Liberty Intl",
+    "Type": "Destination",
+    "PlaceId": null
+  },
+  {
+    "Code": "LGA",
+    "CountryCode": "US",
+    "Country": "United States of America",
+    "Region": "NY",
+    "Name": "La Guardia",
+    "Type": "Destination",
+    "PlaceId": null
+  },
+  {
+    "Code": "MSY",
+    "CountryCode": "US",
+    "Country": "United States of America",
+    "Region": "LA",
+    "Name": "L Armstrong Intl",
+    "Type": "City",
+    "PlaceId": null
+  },
+  {
+    "Code": "NCL",
+    "CountryCode": "GB",
+    "Country": "United Kingdom",
+    "Region": null,
+    "Name": "International",
+    "Type": "Destination",
+    "PlaceId": null
+  },
+  {
+    "Code": "PHF",
+    "CountryCode": "US",
+    "Country": "United States of America",
+    "Region": "VA",
+    "Name": "Newport News Hampton",
+    "Type": "City",
+    "PlaceId": null
+  },
+  {
+    "Code": "ILM",
+    "CountryCode": "US",
+    "Country": "United States of America",
+    "Region": "NC",
+    "Name": "New Hanover",
+    "Type": "Destination",
+    "PlaceId": null
+  },
+  {
+    "Code": "SWF",
+    "CountryCode": "US",
+    "Country": "United States of America",
+    "Region": "NY",
+    "Name": "Newburgh Stewart Apt",
+    "Type": "Destination",
+    "PlaceId": null
+  },
+  {
+    "Code": "HVN",
+    "CountryCode": "US",
+    "Country": "United States of America",
+    "Region": "CT",
+    "Name": "New Haven",
+    "Type": "City",
+    "PlaceId": null
+  },
+  {
+    "Code": "NTL",
+    "CountryCode": "AU",
+    "Country": "Australia",
+    "Region": "NSW",
+    "Name": "Williamtown",
+    "Type": "City",
+    "PlaceId": null
+  },
+  {
+    "Code": "",
+    "CountryCode": null,
+    "Country": "USA",
+    "Region": null,
+    "Name": "New York, NY, USA",
+    "Type": "Destination",
+    "PlaceId": "ChIJOwg_06VPwokRYv534QaPC8g"
+  },
+  {
+    "Code": null,
+    "CountryCode": null,
+    "Country": null,
+    "Region": null,
+    "Name": "New Jersey, USA",
+    "Type": "Destination",
+    "PlaceId": "ChIJn0AAnpX7wIkRjW0_-Ad70iw"
+  },
+  {
+    "Code": "",
+    "CountryCode": null,
+    "Country": "USA",
+    "Region": null,
+    "Name": "Newark, NJ, USA",
+    "Type": "Destination",
+    "PlaceId": "ChIJHQ6aMnBTwokRc-T-3CrcvOE"
+  },
+  {
+    "Code": "",
+    "CountryCode": null,
+    "Country": "USA",
+    "Region": null,
+    "Name": "New Orleans, LA, USA",
+    "Type": "Destination",
+    "PlaceId": "ChIJZYIRslSkIIYRtNMiXuhbBts"
+  },
+  {
+    "Code": "",
+    "CountryCode": null,
+    "Country": "USA",
+    "Region": null,
+    "Name": "Newport News, VA, USA",
+    "Type": "Destination",
+    "PlaceId": "ChIJ2VZNcIJ7sIkRG8vIA-xVfuw"
+  }
+]

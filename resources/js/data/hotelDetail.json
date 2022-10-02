@@ -1,0 +1,2137 @@
+{
+    "SessionId": "e4e08794-8df9-4ebd-a02d-94c6931e39ae",
+    "Hotels": [
+        {
+            "Id": "d3e5856d-9358-4456-88a3-9a31ff7ad30a",
+            "CurrencyCode": "USD",
+            "DailyRatePerRoom": 28.21,
+            "CheckInDate": "2022-03-18T00:00:00",
+            "CheckOutDate": "2022-03-19T00:00:00",
+            "CheckInTime": null,
+            "CheckOutTime": null,
+            "ChainName": "Best Western",
+            "ChainCode": "BW",
+            "HotelName": "BEST WESTERN PLUS CENTRE HOTEL",
+            "HotelCode": "215",
+            "HotelCodeContext": "1A",
+            "HotelAddress": {
+                "CountryCode": "RU",
+                "CountryName": null,
+                "ZIP": "191036",
+                "DistrictName": null,
+                "CityName": "SAINT PETERSBURG",
+                "StreetAddress": "LIGOVSKY PR 41 83",
+                "RegionName": null
+            },
+            "HotelMainImage": "https://d2573qu6qrjt8c.cloudfront.net/656A4BE1B4D84A37B237ACB65395D2F8/J.JPEG",
+            "HotelImages": [
+                "https://d2573qu6qrjt8c.cloudfront.net/D0F9BBFE95234EE792774CA8505309D4/J.JPEG",
+                "https://d2573qu6qrjt8c.cloudfront.net/36CCF34B94B144A8A96C80E1B8CE99D3/J.JPEG",
+                "https://d2573qu6qrjt8c.cloudfront.net/FE4AE2B4B7B14556A14C9115AFC219CB/J.JPEG",
+                "https://d2573qu6qrjt8c.cloudfront.net/609D2D7E295640828334E51D480BC35C/J.JPEG",
+                "https://d2573qu6qrjt8c.cloudfront.net/6D34CA37B1CF462494B07EF52EC8A67D/J.JPEG",
+                "https://d2573qu6qrjt8c.cloudfront.net/C1F6D8DFF7CB498A87DB92FA006F04C2/J.JPEG",
+                "https://d2573qu6qrjt8c.cloudfront.net/D00D8B9D4E5D4931BDEB6BA7DB4C1A43/J.JPEG",
+                "https://d2573qu6qrjt8c.cloudfront.net/C89F57D605D44D3EA2ECEB489B8A093C/J.JPEG",
+                "https://d2573qu6qrjt8c.cloudfront.net/C6434A6A06DC40B998F3370A74A56224/J.JPEG",
+                "https://d2573qu6qrjt8c.cloudfront.net/4F8E7FC3A63B4D6583BDBF56AD1B862E/J.JPEG",
+                "https://d2573qu6qrjt8c.cloudfront.net/52F9B841764348EA82E39AE487E804AD/J.JPEG",
+                "https://d2573qu6qrjt8c.cloudfront.net/582E8384E5D04CF0BBD29B6F6B738FB1/J.JPEG",
+                "https://d2573qu6qrjt8c.cloudfront.net/C686EE0EB5FF4403AE671BBA082B108A/J.JPEG",
+                "https://d2573qu6qrjt8c.cloudfront.net/60E4A5FF372E469F8C3B6ACF95368410/J.JPEG",
+                "https://d2573qu6qrjt8c.cloudfront.net/6B69297B72D94E5C88F1DD98011AB5EF/J.JPEG",
+                "https://d2573qu6qrjt8c.cloudfront.net/7EBE60E3DD734AEFA79AE7CE3AF0B140/J.JPEG",
+                "https://d2573qu6qrjt8c.cloudfront.net/B0117FACCB4B4F8788A54D1FD86C9BDD/J.JPEG",
+                "https://d2573qu6qrjt8c.cloudfront.net/942DB4641A4C41DFB9EBB78436271865/J.JPEG",
+                "https://d2573qu6qrjt8c.cloudfront.net/EBF515B0F2E547799852EA6076C1EF60/J.JPEG",
+                "https://d2573qu6qrjt8c.cloudfront.net/86647FEB90704214BE06B02ADD3720E7/J.JPEG",
+                "https://d2573qu6qrjt8c.cloudfront.net/D11F3256069749EAB26A3370B4CAB57F/J.JPEG",
+                "https://d2573qu6qrjt8c.cloudfront.net/4AA9FB41A51245B9892B2AFE928FF5E5/J.JPEG",
+                "https://d2573qu6qrjt8c.cloudfront.net/7FA4E2F65C5A43908122A64F026C4A67/J.JPEG",
+                "https://d2573qu6qrjt8c.cloudfront.net/400892BA528B42DE921C3AAD33F615D0/J.JPEG",
+                "https://d2573qu6qrjt8c.cloudfront.net/4B5AB56D03CA4240B6B7BCF94ABC3650/J.JPEG",
+                "https://d2573qu6qrjt8c.cloudfront.net/4DE247D2D9664321815291957C9214B6/J.JPEG",
+                "https://d2573qu6qrjt8c.cloudfront.net/0AC6753E316041618CD993CF817F59A9/J.JPEG",
+                "https://d2573qu6qrjt8c.cloudfront.net/A6539A7D0EA34B538E536AB648E10684/J.JPEG",
+                "https://d2573qu6qrjt8c.cloudfront.net/5A1F3F9CDC5B4FA7B7B988222F4B0045/J.JPEG",
+                "https://d2573qu6qrjt8c.cloudfront.net/70343AEC120C40BFA02F07B3C2BEEE9C/J.JPEG",
+                "https://d2573qu6qrjt8c.cloudfront.net/263D7B4DE6B64D1390A7706942D70D15/J.JPEG",
+                "https://d2573qu6qrjt8c.cloudfront.net/FC88F26E91C243E69C0B0DAD9FAC6ADD/J.JPEG",
+                "https://d2573qu6qrjt8c.cloudfront.net/AF6967D1FB4C40549AA379E39A2E2339/J.JPEG",
+                "https://d2573qu6qrjt8c.cloudfront.net/55457662931544C6A63015AA39AA0739/J.JPEG",
+                "https://d2573qu6qrjt8c.cloudfront.net/948A3E03297E42D6864572115777CFDC/J.JPEG",
+                "https://d2573qu6qrjt8c.cloudfront.net/BF2C89E9F4E54C1CB3AC60AC22338104/J.JPEG",
+                "https://d2573qu6qrjt8c.cloudfront.net/07DF2C77A1EB48798073114492EB2535/J.JPEG",
+                "https://d2573qu6qrjt8c.cloudfront.net/0D0400CCA1BC4AD1BF188B2A8C1B73F4/J.JPEG",
+                "https://d2573qu6qrjt8c.cloudfront.net/E48BBCFC2490489B8C953E591277AFCD/J.JPEG",
+                "https://d2573qu6qrjt8c.cloudfront.net/AC242B4EABBA4CECA4E1A680D8DBCABF/J.JPEG",
+                "https://d2573qu6qrjt8c.cloudfront.net/5F335375F86746E5945E282DE82DBC53/J.JPEG",
+                "https://d2573qu6qrjt8c.cloudfront.net/367A9088AADB4A37A221CE7C3FB1A8AF/J.JPEG",
+                "https://d2573qu6qrjt8c.cloudfront.net/29B55CDD6E1F4D159837E5BCD1017449/J.JPEG",
+                "https://d2573qu6qrjt8c.cloudfront.net/DFF9A75BCC064EA9A31AE220B2960279/J.JPEG",
+                "https://d2573qu6qrjt8c.cloudfront.net/400E350967DB4CC1AA913E44EB50A6E6/J.JPEG",
+                "https://d2573qu6qrjt8c.cloudfront.net/8DE8BA014828447CBBA701F3202EDA7A/J.JPEG",
+                "https://d2573qu6qrjt8c.cloudfront.net/393A96B86EE6448C984E4118D9544B90/J.JPEG",
+                "https://d2573qu6qrjt8c.cloudfront.net/605CFCE17CCF480699CADA9E56985D4B/J.JPEG",
+                "https://d2573qu6qrjt8c.cloudfront.net/45FED1D28A72481781E0732935FE7087/J.JPEG",
+                "https://d2573qu6qrjt8c.cloudfront.net/36A824FE4F6C4C1487AC1E317AB26A88/J.JPEG",
+                "https://d2573qu6qrjt8c.cloudfront.net/656A4BE1B4D84A37B237ACB65395D2F8/J.JPEG",
+                "https://d2573qu6qrjt8c.cloudfront.net/8801BE7A9B7844809B3672B4E2C63EC7/J.JPEG",
+                "https://d2573qu6qrjt8c.cloudfront.net/61F1E7D8D76D4898A060CAD872C1E7DB/J.JPEG",
+                "https://d2573qu6qrjt8c.cloudfront.net/97B46CCA1EF44EEABB08FD0F5304F4BE/J.JPEG",
+                "https://d2573qu6qrjt8c.cloudfront.net/BABD1DB9BF904453997F5B6E337B1652/J.JPEG",
+                "https://d2573qu6qrjt8c.cloudfront.net/1E4BD25619D249B6914829B8FC871A8F/J.JPEG",
+                "https://d2573qu6qrjt8c.cloudfront.net/D2BEC875266E4D819F68956C357318EE/J.JPEG",
+                "https://d2573qu6qrjt8c.cloudfront.net/133F0D713A4145D1BBE6ADF0C5F4E882/J.JPEG",
+                "https://d2573qu6qrjt8c.cloudfront.net/ED80F641E1A6402ABCCE4D35D296E794/J.JPEG",
+                "https://d2573qu6qrjt8c.cloudfront.net/FEA039CE916D45FE95FAF8C74BA106DD/J.JPEG",
+                "https://d2573qu6qrjt8c.cloudfront.net/246211454C98452D8CA1F0C56FBA0018/J.JPEG",
+                "https://d2573qu6qrjt8c.cloudfront.net/95F2AAB221474096B81CDB97DF59B12F/J.JPEG",
+                "https://d2573qu6qrjt8c.cloudfront.net/BE27FA203CD64DE5877E2E79BB0BAAC5/J.JPEG"
+            ],
+            "HotelMainText": [],
+            "HotelDescription": [
+                "The Best Western Plus Centre Hotel is located in the historical heart of one of the worlds most beautiful cities, Saint Petersburg. Saint Petersburg has all the ingredients for an unforgettable travel experience: lavish architecture, an extraordinary history and rich cultural traditions that have inspired and nurtured some of the modern world's greatest literature writers, musician, and visual artists. Situated in the middle of corporate, cultural and social life in the center of the northern capital at the famous crossroads of Nevsky and Ligovsky Prospects, the hotel is just steps away from the citys main attractions. This historic hotel offers high level of comfort, featuring a French pastry restaurant called Du Nord 1834 and 107 spacious classical-style guest rooms; from standard twin and king rooms to luxurious suites. All rooms are filled with original features including works of the best Russian avant-garde artists of the early twentieth century. Rooms are equipped with ergonomic furniture, modern bathroom fixtures, and a mini-bar and free Wi-Fi. Entering the Du Nord 1834 from Saint-Petersburgs Ligovsky Prospect guests can find themselves in a cozy drawing room somewhere in Paris. The restaurant is decorated in the style of a classic French bakery, reminiscent of a simple and elegant interior. The Du Nord 1834 welcomes guests with fresh delicious pastries and exquisite and traditional dishes of French cuisine, a cozy atmosphere and high quality service that will satisfy each of our guests expectations. "
+            ],
+            "LocationDescription": null,
+            "AttractionDescription": null,
+            "RoomInfoDescription": null,
+            "Recreation": [],
+            "OnSiteServices": null,
+            "HotelPhone": "+7 812 7177281",
+            "HotelFax": "+7 812 3157501",
+            "HotelCityCode": "LED",
+            "HotelAmenities": {
+                "HAC38": "Family plan",
+                "HAC1": "24-hour front desk",
+                "HAC78": "Safe deposit box",
+                "HAC76": "Restaurant",
+                "HAC103": "Multilingual staff",
+                "HAC198": "Non-smoking rooms (generic)",
+                "HAC77": "Room service",
+                "HAC37": "Express check-out",
+                "HAC33": "Elevators",
+                "HAC165": "Lounges/bars",
+                "SEC58": "Uniformed security",
+                "SEC19": "Emergency lighting",
+                "SEC62": "Video cameras in public areas",
+                "SEC22": "Fire detectors in public areas",
+                "SEC50": "Smoke detector in public areas",
+                "SEC57": "Staff trained in first aid",
+                "BUS80": "Local calls"
+            },
+            "RoomAmenities": {
+                "RMA203": "Single bed",
+                "RMA74": "Non-smoking",
+                "RMA50": "Hairdryer",
+                "RMA92": "Safe",
+                "RMA58": "King bed",
+                "RMA88": "Refrigerator",
+                "RMA10": "Bathrobe",
+                "RMA205": "Free newspaper",
+                "RMA102": "Sofa bed",
+                "RMA18": "Cable television",
+                "RMA3": "Alarm clock",
+                "RMA2": "Air conditioning",
+                "RMA22": "Connecting rooms",
+                "RMA5": "AM/FM radio",
+                "RMA28": "Desk",
+                "RMA51": "High speed internet connection",
+                "RMA119": "Wake-up calls",
+                "RMA19": "Coffee/Tea maker",
+                "RMA27": "Data port",
+                "RMA31": "Direct dial phone number",
+                "RMA69": "Minibar",
+                "RMA45": "Free local calls"
+            },
+            "HotelAmenitiesCollection": [
+                {
+                    "Code": "HAC38",
+                    "Name": "Family plan"
+                },
+                {
+                    "Code": "HAC1",
+                    "Name": "24-hour front desk"
+                },
+                {
+                    "Code": "HAC78",
+                    "Name": "Safe deposit box"
+                },
+                {
+                    "Code": "HAC76",
+                    "Name": "Restaurant"
+                },
+                {
+                    "Code": "HAC103",
+                    "Name": "Multilingual staff"
+                },
+                {
+                    "Code": "HAC198",
+                    "Name": "Non-smoking rooms (generic)"
+                },
+                {
+                    "Code": "HAC77",
+                    "Name": "Room service"
+                },
+                {
+                    "Code": "HAC37",
+                    "Name": "Express check-out"
+                },
+                {
+                    "Code": "HAC33",
+                    "Name": "Elevators"
+                },
+                {
+                    "Code": "HAC165",
+                    "Name": "Lounges/bars"
+                },
+                {
+                    "Code": "SEC58",
+                    "Name": "Uniformed security"
+                },
+                {
+                    "Code": "SEC19",
+                    "Name": "Emergency lighting"
+                },
+                {
+                    "Code": "SEC62",
+                    "Name": "Video cameras in public areas"
+                },
+                {
+                    "Code": "SEC22",
+                    "Name": "Fire detectors in public areas"
+                },
+                {
+                    "Code": "SEC50",
+                    "Name": "Smoke detector in public areas"
+                },
+                {
+                    "Code": "SEC57",
+                    "Name": "Staff trained in first aid"
+                },
+                {
+                    "Code": "BUS80",
+                    "Name": "Local calls"
+                }
+            ],
+            "RoomAmenitiesCollection": [
+                {
+                    "Code": "RMA203",
+                    "Name": "Single bed"
+                },
+                {
+                    "Code": "RMA74",
+                    "Name": "Non-smoking"
+                },
+                {
+                    "Code": "RMA50",
+                    "Name": "Hairdryer"
+                },
+                {
+                    "Code": "RMA92",
+                    "Name": "Safe"
+                },
+                {
+                    "Code": "RMA58",
+                    "Name": "King bed"
+                },
+                {
+                    "Code": "RMA74",
+                    "Name": "Non-smoking"
+                },
+                {
+                    "Code": "RMA58",
+                    "Name": "King bed"
+                },
+                {
+                    "Code": "RMA58",
+                    "Name": "King bed"
+                },
+                {
+                    "Code": "RMA74",
+                    "Name": "Non-smoking"
+                },
+                {
+                    "Code": "RMA50",
+                    "Name": "Hairdryer"
+                },
+                {
+                    "Code": "RMA92",
+                    "Name": "Safe"
+                },
+                {
+                    "Code": "RMA88",
+                    "Name": "Refrigerator"
+                },
+                {
+                    "Code": "RMA58",
+                    "Name": "King bed"
+                },
+                {
+                    "Code": "RMA74",
+                    "Name": "Non-smoking"
+                },
+                {
+                    "Code": "RMA92",
+                    "Name": "Safe"
+                },
+                {
+                    "Code": "RMA88",
+                    "Name": "Refrigerator"
+                },
+                {
+                    "Code": "RMA203",
+                    "Name": "Single bed"
+                },
+                {
+                    "Code": "RMA74",
+                    "Name": "Non-smoking"
+                },
+                {
+                    "Code": "RMA92",
+                    "Name": "Safe"
+                },
+                {
+                    "Code": "RMA88",
+                    "Name": "Refrigerator"
+                },
+                {
+                    "Code": "RMA58",
+                    "Name": "King bed"
+                },
+                {
+                    "Code": "RMA74",
+                    "Name": "Non-smoking"
+                },
+                {
+                    "Code": "RMA92",
+                    "Name": "Safe"
+                },
+                {
+                    "Code": "RMA88",
+                    "Name": "Refrigerator"
+                },
+                {
+                    "Code": "RMA50",
+                    "Name": "Hairdryer"
+                },
+                {
+                    "Code": "RMA10",
+                    "Name": "Bathrobe"
+                },
+                {
+                    "Code": "RMA205",
+                    "Name": "Free newspaper"
+                },
+                {
+                    "Code": "RMA102",
+                    "Name": "Sofa bed"
+                },
+                {
+                    "Code": "RMA18",
+                    "Name": "Cable television"
+                },
+                {
+                    "Code": "RMA3",
+                    "Name": "Alarm clock"
+                },
+                {
+                    "Code": "RMA88",
+                    "Name": "Refrigerator"
+                },
+                {
+                    "Code": "RMA2",
+                    "Name": "Air conditioning"
+                },
+                {
+                    "Code": "RMA22",
+                    "Name": "Connecting rooms"
+                },
+                {
+                    "Code": "RMA5",
+                    "Name": "AM/FM radio"
+                },
+                {
+                    "Code": "RMA28",
+                    "Name": "Desk"
+                },
+                {
+                    "Code": "RMA51",
+                    "Name": "High speed internet connection"
+                },
+                {
+                    "Code": "RMA119",
+                    "Name": "Wake-up calls"
+                },
+                {
+                    "Code": "RMA19",
+                    "Name": "Coffee/Tea maker"
+                },
+                {
+                    "Code": "RMA27",
+                    "Name": "Data port"
+                },
+                {
+                    "Code": "RMA31",
+                    "Name": "Direct dial phone number"
+                },
+                {
+                    "Code": "RMA69",
+                    "Name": "Minibar"
+                },
+                {
+                    "Code": "RMA45",
+                    "Name": "Free local calls"
+                },
+                {
+                    "Code": "RMA92",
+                    "Name": "Safe"
+                }
+            ],
+            "Latitude": "59.93062",
+            "Longitude": "30.36026",
+            "PolicyType": null,
+            "PaymentTerms": " In the heart of the historic center of St Petersburg, famous for its gastronomy & great interior",
+            "HotelAwards": [
+                {
+                    "Provider": "Christ Seven",
+                    "Rating": "5"
+                },
+                {
+                    "Provider": "Super Vision",
+                    "Rating": "4"
+                },
+                {
+                    "Provider": "John Marie",
+                    "Rating": "4"
+                },
+                {
+                    "Provider": "Never Smile",
+                    "Rating": "1"
+                },
+                {
+                    "Provider": "Tom",
+                    "Rating": "3"
+                },
+                {
+                    "Provider": "Super",
+                    "Rating": "5"
+                }
+            ],
+            "PaymentDetails": null,
+            "Rooms": [
+                {
+                    "Id": "24c340ab-eec4-4fe5-afc5-f19ef74c9ba8",
+                    "BookingCode": "C1KAAAA",
+                    "IsAddedToCart": false,
+                    "PriceWithoutTax": null,
+                    "RatePlanCode": "AAA",
+                    "HoldTime": "0001-01-01T00:00:00",
+                    "Status": null,
+                    "GuaranteeType": "GuaranteeRequired",
+                    "MarkupsCalculated": null,
+                    "PromoTypes": null,
+                    "RoomRate": 25.39,
+                    "MarkupRate": 0.0,
+                    "DiscountRate": 0.0,
+                    "BaseRoomRate": 25.39,
+                    "RoomTax": 0.0,
+                    "TotalTaxes": 0.00,
+                    "Inclusion": null,
+                    "ResultIndex": "C1KAAAA",
+                    "TaxesToPay": null,
+                    "RoomTypeCode": "C1K",
+                    "DisplayRoomRate": 0.0,
+                    "TBORoomRate": 0.0,
+                    "RoomText": [
+                        "Aaa Caa Rate ",
+                        "1 King Bed,Nsmk,Hair,Safe,Eleket,Refrig,Cabltv",
+                        "Standard"
+                    ],
+                    "RoomNote": null,
+                    "RateChange": false,
+                    "Category": "Standard",
+                    "Meal": null,
+                    "NumberOfBeds": "1",
+                    "NumberOfRooms": "1",
+                    "BedType": "King",
+                    "DailyRate": null,
+                    "CheckInTime": null,
+                    "CheckOutTime": null,
+                    "RoomDailyrate": [
+                        {
+                            "RoomDailyRate": 25.39,
+                            "MarkupRate": 0.0,
+                            "DiscountRate": 0.0
+                        }
+                    ],
+                    "IsMarkUpDisplay": false,
+                    "MarkUp": 0.0,
+                    "MarkUpType": null,
+                    "PolicyType": null,
+                    "MarkupName": null,
+                    "PolicyDisplayName": null,
+                    "PromotionalDiscount": null,
+                    "Markups": [],
+                    "CancellationPenalties": [
+                        {
+                            "Amount": 0.0,
+                            "IsNonRefundable": false,
+                            "CurrencyCode": "USD",
+                            "DeadlineDate": "2022-03-15T16:00:00",
+                            "Description": null
+                        }
+                    ],
+                    "DisallowBooking": false,
+                    "SendToOutOfPolicy": false,
+                    "MealPlanId": 0,
+                    "RoomAmenitiesCollection": null,
+                    "DefaultPolicy": null,
+                    "RoomPromtion": null,
+                    "HotelNorms": null,
+                    "CancellationDeadline": null
+                },
+                {
+                    "Id": "27b49a8d-7a8e-46fe-81c4-102a18f9c8e3",
+                    "BookingCode": "B2TAAAB",
+                    "IsAddedToCart": false,
+                    "PriceWithoutTax": null,
+                    "RatePlanCode": "AAA",
+                    "HoldTime": "0001-01-01T00:00:00",
+                    "Status": null,
+                    "GuaranteeType": "GuaranteeRequired",
+                    "MarkupsCalculated": null,
+                    "PromoTypes": null,
+                    "RoomRate": 25.39,
+                    "MarkupRate": 0.0,
+                    "DiscountRate": 0.0,
+                    "BaseRoomRate": 25.39,
+                    "RoomTax": 0.0,
+                    "TotalTaxes": 0.00,
+                    "Inclusion": null,
+                    "ResultIndex": "B2TAAAB",
+                    "TaxesToPay": null,
+                    "RoomTypeCode": "B2T",
+                    "DisplayRoomRate": 0.0,
+                    "TBORoomRate": 0.0,
+                    "RoomText": [
+                        "Aaa Caa Rate ",
+                        "2 Single Beds,Nsmk,Hair,Safe,Eleket,Fridge,",
+                        "Cabltv"
+                    ],
+                    "RoomNote": null,
+                    "RateChange": false,
+                    "Category": "Standard",
+                    "Meal": null,
+                    "NumberOfBeds": "2",
+                    "NumberOfRooms": "1",
+                    "BedType": "Single",
+                    "DailyRate": null,
+                    "CheckInTime": null,
+                    "CheckOutTime": null,
+                    "RoomDailyrate": [
+                        {
+                            "RoomDailyRate": 25.39,
+                            "MarkupRate": 0.0,
+                            "DiscountRate": 0.0
+                        }
+                    ],
+                    "IsMarkUpDisplay": false,
+                    "MarkUp": 0.0,
+                    "MarkUpType": null,
+                    "PolicyType": null,
+                    "MarkupName": null,
+                    "PolicyDisplayName": null,
+                    "PromotionalDiscount": null,
+                    "Markups": [],
+                    "CancellationPenalties": [
+                        {
+                            "Amount": 0.0,
+                            "IsNonRefundable": false,
+                            "CurrencyCode": "USD",
+                            "DeadlineDate": "2022-03-15T16:00:00",
+                            "Description": null
+                        }
+                    ],
+                    "DisallowBooking": false,
+                    "SendToOutOfPolicy": false,
+                    "MealPlanId": 0,
+                    "RoomAmenitiesCollection": null,
+                    "DefaultPolicy": null,
+                    "RoomPromtion": null,
+                    "HotelNorms": null,
+                    "CancellationDeadline": null
+                },
+                {
+                    "Id": "052e260e-68a1-4955-839e-80474082b9a3",
+                    "BookingCode": "C1KSRSA",
+                    "IsAddedToCart": false,
+                    "PriceWithoutTax": null,
+                    "RatePlanCode": "SRS",
+                    "HoldTime": "0001-01-01T00:00:00",
+                    "Status": null,
+                    "GuaranteeType": "GuaranteeRequired",
+                    "MarkupsCalculated": null,
+                    "PromoTypes": null,
+                    "RoomRate": 25.39,
+                    "MarkupRate": 0.0,
+                    "DiscountRate": 0.0,
+                    "BaseRoomRate": 25.39,
+                    "RoomTax": 0.0,
+                    "TotalTaxes": 0.00,
+                    "Inclusion": null,
+                    "ResultIndex": "C1KSRSA",
+                    "TaxesToPay": null,
+                    "RoomTypeCode": "C1K",
+                    "DisplayRoomRate": 0.0,
+                    "TBORoomRate": 0.0,
+                    "RoomText": [
+                        "Senior Rate*Citizens 55Yrs Plus Or Aarp Id",
+                        "1 King Bed,Nsmk,Hair,Safe,Eleket,Refrig,Cabltv",
+                        "Standard"
+                    ],
+                    "RoomNote": null,
+                    "RateChange": false,
+                    "Category": "Standard",
+                    "Meal": null,
+                    "NumberOfBeds": "1",
+                    "NumberOfRooms": "1",
+                    "BedType": "King",
+                    "DailyRate": null,
+                    "CheckInTime": null,
+                    "CheckOutTime": null,
+                    "RoomDailyrate": [
+                        {
+                            "RoomDailyRate": 25.39,
+                            "MarkupRate": 0.0,
+                            "DiscountRate": 0.0
+                        }
+                    ],
+                    "IsMarkUpDisplay": false,
+                    "MarkUp": 0.0,
+                    "MarkUpType": null,
+                    "PolicyType": null,
+                    "MarkupName": null,
+                    "PolicyDisplayName": null,
+                    "PromotionalDiscount": null,
+                    "Markups": [],
+                    "CancellationPenalties": [
+                        {
+                            "Amount": 0.0,
+                            "IsNonRefundable": false,
+                            "CurrencyCode": "USD",
+                            "DeadlineDate": "2022-03-15T16:00:00",
+                            "Description": null
+                        }
+                    ],
+                    "DisallowBooking": false,
+                    "SendToOutOfPolicy": false,
+                    "MealPlanId": 0,
+                    "RoomAmenitiesCollection": null,
+                    "DefaultPolicy": null,
+                    "RoomPromtion": null,
+                    "HotelNorms": null,
+                    "CancellationDeadline": null
+                },
+                {
+                    "Id": "6727abe9-0302-4571-a8a7-8250b64ceecf",
+                    "BookingCode": "B2TSRSB",
+                    "IsAddedToCart": false,
+                    "PriceWithoutTax": null,
+                    "RatePlanCode": "SRS",
+                    "HoldTime": "0001-01-01T00:00:00",
+                    "Status": null,
+                    "GuaranteeType": "GuaranteeRequired",
+                    "MarkupsCalculated": null,
+                    "PromoTypes": null,
+                    "RoomRate": 25.39,
+                    "MarkupRate": 0.0,
+                    "DiscountRate": 0.0,
+                    "BaseRoomRate": 25.39,
+                    "RoomTax": 0.0,
+                    "TotalTaxes": 0.00,
+                    "Inclusion": null,
+                    "ResultIndex": "B2TSRSB",
+                    "TaxesToPay": null,
+                    "RoomTypeCode": "B2T",
+                    "DisplayRoomRate": 0.0,
+                    "TBORoomRate": 0.0,
+                    "RoomText": [
+                        "Senior Rate*Citizens 55Yrs Plus Or Aarp Id",
+                        "2 Single Beds,Nsmk,Hair,Safe,Eleket,Fridge,",
+                        "Cabltv"
+                    ],
+                    "RoomNote": null,
+                    "RateChange": false,
+                    "Category": "Standard",
+                    "Meal": null,
+                    "NumberOfBeds": "2",
+                    "NumberOfRooms": "1",
+                    "BedType": "Single",
+                    "DailyRate": null,
+                    "CheckInTime": null,
+                    "CheckOutTime": null,
+                    "RoomDailyrate": [
+                        {
+                            "RoomDailyRate": 25.39,
+                            "MarkupRate": 0.0,
+                            "DiscountRate": 0.0
+                        }
+                    ],
+                    "IsMarkUpDisplay": false,
+                    "MarkUp": 0.0,
+                    "MarkUpType": null,
+                    "PolicyType": null,
+                    "MarkupName": null,
+                    "PolicyDisplayName": null,
+                    "PromotionalDiscount": null,
+                    "Markups": [],
+                    "CancellationPenalties": [
+                        {
+                            "Amount": 0.0,
+                            "IsNonRefundable": false,
+                            "CurrencyCode": "USD",
+                            "DeadlineDate": "2022-03-15T16:00:00",
+                            "Description": null
+                        }
+                    ],
+                    "DisallowBooking": false,
+                    "SendToOutOfPolicy": false,
+                    "MealPlanId": 0,
+                    "RoomAmenitiesCollection": null,
+                    "DefaultPolicy": null,
+                    "RoomPromtion": null,
+                    "HotelNorms": null,
+                    "CancellationDeadline": null
+                },
+                {
+                    "Id": "28e1bf68-9abe-4e91-8d55-797bb3e2b9a3",
+                    "BookingCode": "B1KAAAC",
+                    "IsAddedToCart": false,
+                    "PriceWithoutTax": null,
+                    "RatePlanCode": "AAA",
+                    "HoldTime": "0001-01-01T00:00:00",
+                    "Status": null,
+                    "GuaranteeType": "GuaranteeRequired",
+                    "MarkupsCalculated": null,
+                    "PromoTypes": null,
+                    "RoomRate": 27.93,
+                    "MarkupRate": 0.0,
+                    "DiscountRate": 0.0,
+                    "BaseRoomRate": 27.93,
+                    "RoomTax": 0.0,
+                    "TotalTaxes": 0.00,
+                    "Inclusion": null,
+                    "ResultIndex": "B1KAAAC",
+                    "TaxesToPay": null,
+                    "RoomTypeCode": "B1K",
+                    "DisplayRoomRate": 0.0,
+                    "TBORoomRate": 0.0,
+                    "RoomText": [
+                        "Aaa Caa Rate ",
+                        "1 King Bed,Nsmk,Stnd,View,Safe,Refrig,Wifi",
+                        "Standard"
+                    ],
+                    "RoomNote": null,
+                    "RateChange": false,
+                    "Category": "Standard",
+                    "Meal": null,
+                    "NumberOfBeds": "1",
+                    "NumberOfRooms": "1",
+                    "BedType": "King",
+                    "DailyRate": null,
+                    "CheckInTime": null,
+                    "CheckOutTime": null,
+                    "RoomDailyrate": [
+                        {
+                            "RoomDailyRate": 27.93,
+                            "MarkupRate": 0.0,
+                            "DiscountRate": 0.0
+                        }
+                    ],
+                    "IsMarkUpDisplay": false,
+                    "MarkUp": 0.0,
+                    "MarkUpType": null,
+                    "PolicyType": null,
+                    "MarkupName": null,
+                    "PolicyDisplayName": null,
+                    "PromotionalDiscount": null,
+                    "Markups": [],
+                    "CancellationPenalties": [
+                        {
+                            "Amount": 0.0,
+                            "IsNonRefundable": false,
+                            "CurrencyCode": "USD",
+                            "DeadlineDate": "2022-03-15T16:00:00",
+                            "Description": null
+                        }
+                    ],
+                    "DisallowBooking": false,
+                    "SendToOutOfPolicy": false,
+                    "MealPlanId": 0,
+                    "RoomAmenitiesCollection": null,
+                    "DefaultPolicy": null,
+                    "RoomPromtion": null,
+                    "HotelNorms": null,
+                    "CancellationDeadline": null
+                },
+                {
+                    "Id": "c46298c2-beda-4d5a-a7a9-b3b281e6c96b",
+                    "BookingCode": "A2TAAAD",
+                    "IsAddedToCart": false,
+                    "PriceWithoutTax": null,
+                    "RatePlanCode": "AAA",
+                    "HoldTime": "0001-01-01T00:00:00",
+                    "Status": null,
+                    "GuaranteeType": "GuaranteeRequired",
+                    "MarkupsCalculated": null,
+                    "PromoTypes": null,
+                    "RoomRate": 27.93,
+                    "MarkupRate": 0.0,
+                    "DiscountRate": 0.0,
+                    "BaseRoomRate": 27.93,
+                    "RoomTax": 0.0,
+                    "TotalTaxes": 0.00,
+                    "Inclusion": null,
+                    "ResultIndex": "A2TAAAD",
+                    "TaxesToPay": null,
+                    "RoomTypeCode": "A2T",
+                    "DisplayRoomRate": 0.0,
+                    "TBORoomRate": 0.0,
+                    "RoomText": [
+                        "Aaa Caa Rate ",
+                        "2 Single Beds,Nsmk,Stnd,View,Safe,Refrig,Wifi",
+                        "Standard"
+                    ],
+                    "RoomNote": null,
+                    "RateChange": false,
+                    "Category": "Standard",
+                    "Meal": null,
+                    "NumberOfBeds": "2",
+                    "NumberOfRooms": "1",
+                    "BedType": "Single",
+                    "DailyRate": null,
+                    "CheckInTime": null,
+                    "CheckOutTime": null,
+                    "RoomDailyrate": [
+                        {
+                            "RoomDailyRate": 27.93,
+                            "MarkupRate": 0.0,
+                            "DiscountRate": 0.0
+                        }
+                    ],
+                    "IsMarkUpDisplay": false,
+                    "MarkUp": 0.0,
+                    "MarkUpType": null,
+                    "PolicyType": null,
+                    "MarkupName": null,
+                    "PolicyDisplayName": null,
+                    "PromotionalDiscount": null,
+                    "Markups": [],
+                    "CancellationPenalties": [
+                        {
+                            "Amount": 0.0,
+                            "IsNonRefundable": false,
+                            "CurrencyCode": "USD",
+                            "DeadlineDate": "2022-03-15T16:00:00",
+                            "Description": null
+                        }
+                    ],
+                    "DisallowBooking": false,
+                    "SendToOutOfPolicy": false,
+                    "MealPlanId": 0,
+                    "RoomAmenitiesCollection": null,
+                    "DefaultPolicy": null,
+                    "RoomPromtion": null,
+                    "HotelNorms": null,
+                    "CancellationDeadline": null
+                },
+                {
+                    "Id": "32cb116a-8f85-45b4-bbaa-258ece678224",
+                    "BookingCode": "B1KSRSC",
+                    "IsAddedToCart": false,
+                    "PriceWithoutTax": null,
+                    "RatePlanCode": "SRS",
+                    "HoldTime": "0001-01-01T00:00:00",
+                    "Status": null,
+                    "GuaranteeType": "GuaranteeRequired",
+                    "MarkupsCalculated": null,
+                    "PromoTypes": null,
+                    "RoomRate": 27.93,
+                    "MarkupRate": 0.0,
+                    "DiscountRate": 0.0,
+                    "BaseRoomRate": 27.93,
+                    "RoomTax": 0.0,
+                    "TotalTaxes": 0.00,
+                    "Inclusion": null,
+                    "ResultIndex": "B1KSRSC",
+                    "TaxesToPay": null,
+                    "RoomTypeCode": "B1K",
+                    "DisplayRoomRate": 0.0,
+                    "TBORoomRate": 0.0,
+                    "RoomText": [
+                        "Senior Rate*Citizens 55Yrs Plus Or Aarp Id",
+                        "1 King Bed,Nsmk,Stnd,View,Safe,Refrig,Wifi",
+                        "Standard"
+                    ],
+                    "RoomNote": null,
+                    "RateChange": false,
+                    "Category": "Standard",
+                    "Meal": null,
+                    "NumberOfBeds": "1",
+                    "NumberOfRooms": "1",
+                    "BedType": "King",
+                    "DailyRate": null,
+                    "CheckInTime": null,
+                    "CheckOutTime": null,
+                    "RoomDailyrate": [
+                        {
+                            "RoomDailyRate": 27.93,
+                            "MarkupRate": 0.0,
+                            "DiscountRate": 0.0
+                        }
+                    ],
+                    "IsMarkUpDisplay": false,
+                    "MarkUp": 0.0,
+                    "MarkUpType": null,
+                    "PolicyType": null,
+                    "MarkupName": null,
+                    "PolicyDisplayName": null,
+                    "PromotionalDiscount": null,
+                    "Markups": [],
+                    "CancellationPenalties": [
+                        {
+                            "Amount": 0.0,
+                            "IsNonRefundable": false,
+                            "CurrencyCode": "USD",
+                            "DeadlineDate": "2022-03-15T16:00:00",
+                            "Description": null
+                        }
+                    ],
+                    "DisallowBooking": false,
+                    "SendToOutOfPolicy": false,
+                    "MealPlanId": 0,
+                    "RoomAmenitiesCollection": null,
+                    "DefaultPolicy": null,
+                    "RoomPromtion": null,
+                    "HotelNorms": null,
+                    "CancellationDeadline": null
+                },
+                {
+                    "Id": "b686e99a-6cc3-4a40-81c5-cb7b9ee92827",
+                    "BookingCode": "C1KRACA",
+                    "IsAddedToCart": false,
+                    "PriceWithoutTax": null,
+                    "RatePlanCode": "BAR",
+                    "HoldTime": "0001-01-01T00:00:00",
+                    "Status": null,
+                    "GuaranteeType": "GuaranteeRequired",
+                    "MarkupsCalculated": null,
+                    "PromoTypes": null,
+                    "RoomRate": 28.21,
+                    "MarkupRate": 0.0,
+                    "DiscountRate": 0.0,
+                    "BaseRoomRate": 28.21,
+                    "RoomTax": 0.0,
+                    "TotalTaxes": 0.00,
+                    "Inclusion": null,
+                    "ResultIndex": "C1KRACA",
+                    "TaxesToPay": null,
+                    "RoomTypeCode": "C1K",
+                    "DisplayRoomRate": 0.0,
+                    "TBORoomRate": 0.0,
+                    "RoomText": [
+                        "Flexible Rate*Best Least Restrictive Rate",
+                        "1 King Bed,Nsmk,Hair,Safe,Eleket,Refrig,Cabltv",
+                        "Standard"
+                    ],
+                    "RoomNote": null,
+                    "RateChange": false,
+                    "Category": "Standard",
+                    "Meal": null,
+                    "NumberOfBeds": "1",
+                    "NumberOfRooms": "1",
+                    "BedType": "King",
+                    "DailyRate": null,
+                    "CheckInTime": null,
+                    "CheckOutTime": null,
+                    "RoomDailyrate": [
+                        {
+                            "RoomDailyRate": 28.21,
+                            "MarkupRate": 0.0,
+                            "DiscountRate": 0.0
+                        }
+                    ],
+                    "IsMarkUpDisplay": false,
+                    "MarkUp": 0.0,
+                    "MarkUpType": null,
+                    "PolicyType": null,
+                    "MarkupName": null,
+                    "PolicyDisplayName": null,
+                    "PromotionalDiscount": null,
+                    "Markups": [],
+                    "CancellationPenalties": [
+                        {
+                            "Amount": 0.0,
+                            "IsNonRefundable": false,
+                            "CurrencyCode": "USD",
+                            "DeadlineDate": "2022-03-15T16:00:00",
+                            "Description": null
+                        }
+                    ],
+                    "DisallowBooking": false,
+                    "SendToOutOfPolicy": false,
+                    "MealPlanId": 0,
+                    "RoomAmenitiesCollection": null,
+                    "DefaultPolicy": null,
+                    "RoomPromtion": null,
+                    "HotelNorms": null,
+                    "CancellationDeadline": null
+                },
+                {
+                    "Id": "c5c6596c-cf1d-4b7e-a62b-62dfe2eb3665",
+                    "BookingCode": "B2TRACB",
+                    "IsAddedToCart": false,
+                    "PriceWithoutTax": null,
+                    "RatePlanCode": "BAR",
+                    "HoldTime": "0001-01-01T00:00:00",
+                    "Status": null,
+                    "GuaranteeType": "GuaranteeRequired",
+                    "MarkupsCalculated": null,
+                    "PromoTypes": null,
+                    "RoomRate": 28.21,
+                    "MarkupRate": 0.0,
+                    "DiscountRate": 0.0,
+                    "BaseRoomRate": 28.21,
+                    "RoomTax": 0.0,
+                    "TotalTaxes": 0.00,
+                    "Inclusion": null,
+                    "ResultIndex": "B2TRACB",
+                    "TaxesToPay": null,
+                    "RoomTypeCode": "B2T",
+                    "DisplayRoomRate": 0.0,
+                    "TBORoomRate": 0.0,
+                    "RoomText": [
+                        "Flexible Rate*Best Least Restrictive Rate",
+                        "2 Single Beds,Nsmk,Hair,Safe,Eleket,Fridge,",
+                        "Cabltv"
+                    ],
+                    "RoomNote": null,
+                    "RateChange": false,
+                    "Category": "Standard",
+                    "Meal": null,
+                    "NumberOfBeds": "2",
+                    "NumberOfRooms": "1",
+                    "BedType": "Single",
+                    "DailyRate": null,
+                    "CheckInTime": null,
+                    "CheckOutTime": null,
+                    "RoomDailyrate": [
+                        {
+                            "RoomDailyRate": 28.21,
+                            "MarkupRate": 0.0,
+                            "DiscountRate": 0.0
+                        }
+                    ],
+                    "IsMarkUpDisplay": false,
+                    "MarkUp": 0.0,
+                    "MarkUpType": null,
+                    "PolicyType": null,
+                    "MarkupName": null,
+                    "PolicyDisplayName": null,
+                    "PromotionalDiscount": null,
+                    "Markups": [],
+                    "CancellationPenalties": [
+                        {
+                            "Amount": 0.0,
+                            "IsNonRefundable": false,
+                            "CurrencyCode": "USD",
+                            "DeadlineDate": "2022-03-15T16:00:00",
+                            "Description": null
+                        }
+                    ],
+                    "DisallowBooking": false,
+                    "SendToOutOfPolicy": false,
+                    "MealPlanId": 0,
+                    "RoomAmenitiesCollection": null,
+                    "DefaultPolicy": null,
+                    "RoomPromtion": null,
+                    "HotelNorms": null,
+                    "CancellationDeadline": null
+                },
+                {
+                    "Id": "2d3672bd-e9f0-470c-be9d-076766356a19",
+                    "BookingCode": "B1KAAAG",
+                    "IsAddedToCart": false,
+                    "PriceWithoutTax": null,
+                    "RatePlanCode": "AAA",
+                    "HoldTime": "0001-01-01T00:00:00",
+                    "Status": null,
+                    "GuaranteeType": "GuaranteeRequired",
+                    "MarkupsCalculated": null,
+                    "PromoTypes": null,
+                    "RoomRate": 29.16,
+                    "MarkupRate": 0.0,
+                    "DiscountRate": 0.0,
+                    "BaseRoomRate": 29.16,
+                    "RoomTax": 0.0,
+                    "TotalTaxes": 0.00,
+                    "Inclusion": null,
+                    "ResultIndex": "B1KAAAG",
+                    "TaxesToPay": null,
+                    "RoomTypeCode": "B1K",
+                    "DisplayRoomRate": 0.0,
+                    "TBORoomRate": 0.0,
+                    "RoomText": [
+                        "Aaa Caa Rate ",
+                        "1 King Bed,Junior Suite,Nonsmoking,",
+                        "Free Internet"
+                    ],
+                    "RoomNote": null,
+                    "RateChange": false,
+                    "Category": "Junior Suite/Mini Suite",
+                    "Meal": null,
+                    "NumberOfBeds": "1",
+                    "NumberOfRooms": "1",
+                    "BedType": "King",
+                    "DailyRate": null,
+                    "CheckInTime": null,
+                    "CheckOutTime": null,
+                    "RoomDailyrate": [
+                        {
+                            "RoomDailyRate": 29.16,
+                            "MarkupRate": 0.0,
+                            "DiscountRate": 0.0
+                        }
+                    ],
+                    "IsMarkUpDisplay": false,
+                    "MarkUp": 0.0,
+                    "MarkUpType": null,
+                    "PolicyType": null,
+                    "MarkupName": null,
+                    "PolicyDisplayName": null,
+                    "PromotionalDiscount": null,
+                    "Markups": [],
+                    "CancellationPenalties": [
+                        {
+                            "Amount": 0.0,
+                            "IsNonRefundable": false,
+                            "CurrencyCode": "USD",
+                            "DeadlineDate": "2022-03-15T16:00:00",
+                            "Description": null
+                        }
+                    ],
+                    "DisallowBooking": false,
+                    "SendToOutOfPolicy": false,
+                    "MealPlanId": 0,
+                    "RoomAmenitiesCollection": null,
+                    "DefaultPolicy": null,
+                    "RoomPromtion": null,
+                    "HotelNorms": null,
+                    "CancellationDeadline": null
+                },
+                {
+                    "Id": "7b598c2e-e88b-427a-ae02-4113c55b3c24",
+                    "BookingCode": "B1KRACC",
+                    "IsAddedToCart": false,
+                    "PriceWithoutTax": null,
+                    "RatePlanCode": "BAR",
+                    "HoldTime": "0001-01-01T00:00:00",
+                    "Status": null,
+                    "GuaranteeType": "GuaranteeRequired",
+                    "MarkupsCalculated": null,
+                    "PromoTypes": null,
+                    "RoomRate": 31.03,
+                    "MarkupRate": 0.0,
+                    "DiscountRate": 0.0,
+                    "BaseRoomRate": 31.03,
+                    "RoomTax": 0.0,
+                    "TotalTaxes": 0.00,
+                    "Inclusion": null,
+                    "ResultIndex": "B1KRACC",
+                    "TaxesToPay": null,
+                    "RoomTypeCode": "B1K",
+                    "DisplayRoomRate": 0.0,
+                    "TBORoomRate": 0.0,
+                    "RoomText": [
+                        "Flexible Rate*Best Least Restrictive Rate",
+                        "1 King Bed,Nsmk,Stnd,View,Safe,Refrig,Wifi",
+                        "Standard"
+                    ],
+                    "RoomNote": null,
+                    "RateChange": false,
+                    "Category": "Standard",
+                    "Meal": null,
+                    "NumberOfBeds": "1",
+                    "NumberOfRooms": "1",
+                    "BedType": "King",
+                    "DailyRate": null,
+                    "CheckInTime": null,
+                    "CheckOutTime": null,
+                    "RoomDailyrate": [
+                        {
+                            "RoomDailyRate": 31.03,
+                            "MarkupRate": 0.0,
+                            "DiscountRate": 0.0
+                        }
+                    ],
+                    "IsMarkUpDisplay": false,
+                    "MarkUp": 0.0,
+                    "MarkUpType": null,
+                    "PolicyType": null,
+                    "MarkupName": null,
+                    "PolicyDisplayName": null,
+                    "PromotionalDiscount": null,
+                    "Markups": [],
+                    "CancellationPenalties": [
+                        {
+                            "Amount": 0.0,
+                            "IsNonRefundable": false,
+                            "CurrencyCode": "USD",
+                            "DeadlineDate": "2022-03-15T16:00:00",
+                            "Description": null
+                        }
+                    ],
+                    "DisallowBooking": false,
+                    "SendToOutOfPolicy": false,
+                    "MealPlanId": 0,
+                    "RoomAmenitiesCollection": null,
+                    "DefaultPolicy": null,
+                    "RoomPromtion": null,
+                    "HotelNorms": null,
+                    "CancellationDeadline": null
+                },
+                {
+                    "Id": "a92177f5-3e30-4e8c-b5f1-3d13c2c7baaa",
+                    "BookingCode": "A2TRACD",
+                    "IsAddedToCart": false,
+                    "PriceWithoutTax": null,
+                    "RatePlanCode": "BAR",
+                    "HoldTime": "0001-01-01T00:00:00",
+                    "Status": null,
+                    "GuaranteeType": "GuaranteeRequired",
+                    "MarkupsCalculated": null,
+                    "PromoTypes": null,
+                    "RoomRate": 31.03,
+                    "MarkupRate": 0.0,
+                    "DiscountRate": 0.0,
+                    "BaseRoomRate": 31.03,
+                    "RoomTax": 0.0,
+                    "TotalTaxes": 0.00,
+                    "Inclusion": null,
+                    "ResultIndex": "A2TRACD",
+                    "TaxesToPay": null,
+                    "RoomTypeCode": "A2T",
+                    "DisplayRoomRate": 0.0,
+                    "TBORoomRate": 0.0,
+                    "RoomText": [
+                        "Flexible Rate*Best Least Restrictive Rate",
+                        "2 Single Beds,Nsmk,Stnd,View,Safe,Refrig,Wifi",
+                        "Standard"
+                    ],
+                    "RoomNote": null,
+                    "RateChange": false,
+                    "Category": "Standard",
+                    "Meal": null,
+                    "NumberOfBeds": "2",
+                    "NumberOfRooms": "1",
+                    "BedType": "Single",
+                    "DailyRate": null,
+                    "CheckInTime": null,
+                    "CheckOutTime": null,
+                    "RoomDailyrate": [
+                        {
+                            "RoomDailyRate": 31.03,
+                            "MarkupRate": 0.0,
+                            "DiscountRate": 0.0
+                        }
+                    ],
+                    "IsMarkUpDisplay": false,
+                    "MarkUp": 0.0,
+                    "MarkUpType": null,
+                    "PolicyType": null,
+                    "MarkupName": null,
+                    "PolicyDisplayName": null,
+                    "PromotionalDiscount": null,
+                    "Markups": [],
+                    "CancellationPenalties": [
+                        {
+                            "Amount": 0.0,
+                            "IsNonRefundable": false,
+                            "CurrencyCode": "USD",
+                            "DeadlineDate": "2022-03-15T16:00:00",
+                            "Description": null
+                        }
+                    ],
+                    "DisallowBooking": false,
+                    "SendToOutOfPolicy": false,
+                    "MealPlanId": 0,
+                    "RoomAmenitiesCollection": null,
+                    "DefaultPolicy": null,
+                    "RoomPromtion": null,
+                    "HotelNorms": null,
+                    "CancellationDeadline": null
+                },
+                {
+                    "Id": "2d09a411-4290-4681-b543-2b9b5e020551",
+                    "BookingCode": "A1KAAAF",
+                    "IsAddedToCart": false,
+                    "PriceWithoutTax": null,
+                    "RatePlanCode": "AAA",
+                    "HoldTime": "0001-01-01T00:00:00",
+                    "Status": null,
+                    "GuaranteeType": "GuaranteeRequired",
+                    "MarkupsCalculated": null,
+                    "PromoTypes": null,
+                    "RoomRate": 32.07,
+                    "MarkupRate": 0.0,
+                    "DiscountRate": 0.0,
+                    "BaseRoomRate": 32.07,
+                    "RoomTax": 0.0,
+                    "TotalTaxes": 0.00,
+                    "Inclusion": null,
+                    "ResultIndex": "A1KAAAF",
+                    "TaxesToPay": null,
+                    "RoomTypeCode": "A1K",
+                    "DisplayRoomRate": 0.0,
+                    "TBORoomRate": 0.0,
+                    "RoomText": [
+                        "Aaa Caa Rate ",
+                        "1 King Bed,Nsmk,Jrste,View,Safe,Refrig,Wifi",
+                        "Standard"
+                    ],
+                    "RoomNote": null,
+                    "RateChange": false,
+                    "Category": "Standard",
+                    "Meal": null,
+                    "NumberOfBeds": "1",
+                    "NumberOfRooms": "1",
+                    "BedType": "King",
+                    "DailyRate": null,
+                    "CheckInTime": null,
+                    "CheckOutTime": null,
+                    "RoomDailyrate": [
+                        {
+                            "RoomDailyRate": 32.07,
+                            "MarkupRate": 0.0,
+                            "DiscountRate": 0.0
+                        }
+                    ],
+                    "IsMarkUpDisplay": false,
+                    "MarkUp": 0.0,
+                    "MarkUpType": null,
+                    "PolicyType": null,
+                    "MarkupName": null,
+                    "PolicyDisplayName": null,
+                    "PromotionalDiscount": null,
+                    "Markups": [],
+                    "CancellationPenalties": [
+                        {
+                            "Amount": 0.0,
+                            "IsNonRefundable": false,
+                            "CurrencyCode": "USD",
+                            "DeadlineDate": "2022-03-15T16:00:00",
+                            "Description": null
+                        }
+                    ],
+                    "DisallowBooking": false,
+                    "SendToOutOfPolicy": false,
+                    "MealPlanId": 0,
+                    "RoomAmenitiesCollection": null,
+                    "DefaultPolicy": null,
+                    "RoomPromtion": null,
+                    "HotelNorms": null,
+                    "CancellationDeadline": null
+                },
+                {
+                    "Id": "24572803-79bd-4e7a-bdc6-65fcff6bf1ed",
+                    "BookingCode": "B1KRACG",
+                    "IsAddedToCart": false,
+                    "PriceWithoutTax": null,
+                    "RatePlanCode": "BAR",
+                    "HoldTime": "0001-01-01T00:00:00",
+                    "Status": null,
+                    "GuaranteeType": "GuaranteeRequired",
+                    "MarkupsCalculated": null,
+                    "PromoTypes": null,
+                    "RoomRate": 32.41,
+                    "MarkupRate": 0.0,
+                    "DiscountRate": 0.0,
+                    "BaseRoomRate": 32.41,
+                    "RoomTax": 0.0,
+                    "TotalTaxes": 0.00,
+                    "Inclusion": null,
+                    "ResultIndex": "B1KRACG",
+                    "TaxesToPay": null,
+                    "RoomTypeCode": "B1K",
+                    "DisplayRoomRate": 0.0,
+                    "TBORoomRate": 0.0,
+                    "RoomText": [
+                        "Flexible Rate*Best Least Restrictive Rate",
+                        "1 King Bed,Junior Suite,Nonsmoking,",
+                        "Free Internet"
+                    ],
+                    "RoomNote": null,
+                    "RateChange": false,
+                    "Category": "Junior Suite/Mini Suite",
+                    "Meal": null,
+                    "NumberOfBeds": "1",
+                    "NumberOfRooms": "1",
+                    "BedType": "King",
+                    "DailyRate": null,
+                    "CheckInTime": null,
+                    "CheckOutTime": null,
+                    "RoomDailyrate": [
+                        {
+                            "RoomDailyRate": 32.41,
+                            "MarkupRate": 0.0,
+                            "DiscountRate": 0.0
+                        }
+                    ],
+                    "IsMarkUpDisplay": false,
+                    "MarkUp": 0.0,
+                    "MarkUpType": null,
+                    "PolicyType": null,
+                    "MarkupName": null,
+                    "PolicyDisplayName": null,
+                    "PromotionalDiscount": null,
+                    "Markups": [],
+                    "CancellationPenalties": [
+                        {
+                            "Amount": 0.0,
+                            "IsNonRefundable": false,
+                            "CurrencyCode": "USD",
+                            "DeadlineDate": "2022-03-15T16:00:00",
+                            "Description": null
+                        }
+                    ],
+                    "DisallowBooking": false,
+                    "SendToOutOfPolicy": false,
+                    "MealPlanId": 0,
+                    "RoomAmenitiesCollection": null,
+                    "DefaultPolicy": null,
+                    "RoomPromtion": null,
+                    "HotelNorms": null,
+                    "CancellationDeadline": null
+                },
+                {
+                    "Id": "b38133b2-2e77-4c55-b98e-20e76f32fd85",
+                    "BookingCode": "C1KUK3A",
+                    "IsAddedToCart": false,
+                    "PriceWithoutTax": null,
+                    "RatePlanCode": "BAR",
+                    "HoldTime": "0001-01-01T00:00:00",
+                    "Status": null,
+                    "GuaranteeType": "GuaranteeRequired",
+                    "MarkupsCalculated": null,
+                    "PromoTypes": null,
+                    "RoomRate": 33.14,
+                    "MarkupRate": 0.0,
+                    "DiscountRate": 0.0,
+                    "BaseRoomRate": 33.14,
+                    "RoomTax": 0.0,
+                    "TotalTaxes": 0.00,
+                    "Inclusion": null,
+                    "ResultIndex": "C1KUK3A",
+                    "TaxesToPay": null,
+                    "RoomTypeCode": "C1K",
+                    "DisplayRoomRate": 0.0,
+                    "TBORoomRate": 0.0,
+                    "RoomText": [
+                        "Flexible Bed - Breakfast Rate*Available To All ",
+                        "1 King Bed,Nsmk,Hair,Safe,Eleket,Refrig,Cabltv",
+                        "Standard"
+                    ],
+                    "RoomNote": null,
+                    "RateChange": false,
+                    "Category": "Standard",
+                    "Meal": null,
+                    "NumberOfBeds": "1",
+                    "NumberOfRooms": "1",
+                    "BedType": "King",
+                    "DailyRate": null,
+                    "CheckInTime": null,
+                    "CheckOutTime": null,
+                    "RoomDailyrate": [
+                        {
+                            "RoomDailyRate": 33.14,
+                            "MarkupRate": 0.0,
+                            "DiscountRate": 0.0
+                        }
+                    ],
+                    "IsMarkUpDisplay": false,
+                    "MarkUp": 0.0,
+                    "MarkUpType": null,
+                    "PolicyType": null,
+                    "MarkupName": null,
+                    "PolicyDisplayName": null,
+                    "PromotionalDiscount": null,
+                    "Markups": [],
+                    "CancellationPenalties": [
+                        {
+                            "Amount": 0.0,
+                            "IsNonRefundable": false,
+                            "CurrencyCode": "USD",
+                            "DeadlineDate": "2022-03-15T16:00:00",
+                            "Description": null
+                        }
+                    ],
+                    "DisallowBooking": false,
+                    "SendToOutOfPolicy": false,
+                    "MealPlanId": 0,
+                    "RoomAmenitiesCollection": null,
+                    "DefaultPolicy": null,
+                    "RoomPromtion": null,
+                    "HotelNorms": null,
+                    "CancellationDeadline": null
+                },
+                {
+                    "Id": "30471955-4bd9-4861-b3d0-2876ad7f754e",
+                    "BookingCode": "B2TUK3B",
+                    "IsAddedToCart": false,
+                    "PriceWithoutTax": null,
+                    "RatePlanCode": "BAR",
+                    "HoldTime": "0001-01-01T00:00:00",
+                    "Status": null,
+                    "GuaranteeType": "GuaranteeRequired",
+                    "MarkupsCalculated": null,
+                    "PromoTypes": null,
+                    "RoomRate": 33.14,
+                    "MarkupRate": 0.0,
+                    "DiscountRate": 0.0,
+                    "BaseRoomRate": 33.14,
+                    "RoomTax": 0.0,
+                    "TotalTaxes": 0.00,
+                    "Inclusion": null,
+                    "ResultIndex": "B2TUK3B",
+                    "TaxesToPay": null,
+                    "RoomTypeCode": "B2T",
+                    "DisplayRoomRate": 0.0,
+                    "TBORoomRate": 0.0,
+                    "RoomText": [
+                        "Flexible Bed - Breakfast Rate*Available To All ",
+                        "2 Single Beds,Nsmk,Hair,Safe,Eleket,Fridge,",
+                        "Cabltv"
+                    ],
+                    "RoomNote": null,
+                    "RateChange": false,
+                    "Category": "Standard",
+                    "Meal": null,
+                    "NumberOfBeds": "2",
+                    "NumberOfRooms": "1",
+                    "BedType": "Single",
+                    "DailyRate": null,
+                    "CheckInTime": null,
+                    "CheckOutTime": null,
+                    "RoomDailyrate": [
+                        {
+                            "RoomDailyRate": 33.14,
+                            "MarkupRate": 0.0,
+                            "DiscountRate": 0.0
+                        }
+                    ],
+                    "IsMarkUpDisplay": false,
+                    "MarkUp": 0.0,
+                    "MarkUpType": null,
+                    "PolicyType": null,
+                    "MarkupName": null,
+                    "PolicyDisplayName": null,
+                    "PromotionalDiscount": null,
+                    "Markups": [],
+                    "CancellationPenalties": [
+                        {
+                            "Amount": 0.0,
+                            "IsNonRefundable": false,
+                            "CurrencyCode": "USD",
+                            "DeadlineDate": "2022-03-15T16:00:00",
+                            "Description": null
+                        }
+                    ],
+                    "DisallowBooking": false,
+                    "SendToOutOfPolicy": false,
+                    "MealPlanId": 0,
+                    "RoomAmenitiesCollection": null,
+                    "DefaultPolicy": null,
+                    "RoomPromtion": null,
+                    "HotelNorms": null,
+                    "CancellationDeadline": null
+                },
+                {
+                    "Id": "ea482584-a7c6-45d6-bac4-757d0eb3871d",
+                    "BookingCode": "A1KRACF",
+                    "IsAddedToCart": false,
+                    "PriceWithoutTax": null,
+                    "RatePlanCode": "BAR",
+                    "HoldTime": "0001-01-01T00:00:00",
+                    "Status": null,
+                    "GuaranteeType": "GuaranteeRequired",
+                    "MarkupsCalculated": null,
+                    "PromoTypes": null,
+                    "RoomRate": 35.63,
+                    "MarkupRate": 0.0,
+                    "DiscountRate": 0.0,
+                    "BaseRoomRate": 35.63,
+                    "RoomTax": 0.0,
+                    "TotalTaxes": 0.00,
+                    "Inclusion": null,
+                    "ResultIndex": "A1KRACF",
+                    "TaxesToPay": null,
+                    "RoomTypeCode": "A1K",
+                    "DisplayRoomRate": 0.0,
+                    "TBORoomRate": 0.0,
+                    "RoomText": [
+                        "Flexible Rate*Best Least Restrictive Rate",
+                        "1 King Bed,Nsmk,Jrste,View,Safe,Refrig,Wifi",
+                        "Standard"
+                    ],
+                    "RoomNote": null,
+                    "RateChange": false,
+                    "Category": "Standard",
+                    "Meal": null,
+                    "NumberOfBeds": "1",
+                    "NumberOfRooms": "1",
+                    "BedType": "King",
+                    "DailyRate": null,
+                    "CheckInTime": null,
+                    "CheckOutTime": null,
+                    "RoomDailyrate": [
+                        {
+                            "RoomDailyRate": 35.63,
+                            "MarkupRate": 0.0,
+                            "DiscountRate": 0.0
+                        }
+                    ],
+                    "IsMarkUpDisplay": false,
+                    "MarkUp": 0.0,
+                    "MarkUpType": null,
+                    "PolicyType": null,
+                    "MarkupName": null,
+                    "PolicyDisplayName": null,
+                    "PromotionalDiscount": null,
+                    "Markups": [],
+                    "CancellationPenalties": [
+                        {
+                            "Amount": 0.0,
+                            "IsNonRefundable": false,
+                            "CurrencyCode": "USD",
+                            "DeadlineDate": "2022-03-15T16:00:00",
+                            "Description": null
+                        }
+                    ],
+                    "DisallowBooking": false,
+                    "SendToOutOfPolicy": false,
+                    "MealPlanId": 0,
+                    "RoomAmenitiesCollection": null,
+                    "DefaultPolicy": null,
+                    "RoomPromtion": null,
+                    "HotelNorms": null,
+                    "CancellationDeadline": null
+                },
+                {
+                    "Id": "f4f84488-6cb5-4fb2-ab9e-caf0696d1297",
+                    "BookingCode": "B1KUK3C",
+                    "IsAddedToCart": false,
+                    "PriceWithoutTax": null,
+                    "RatePlanCode": "BAR",
+                    "HoldTime": "0001-01-01T00:00:00",
+                    "Status": null,
+                    "GuaranteeType": "GuaranteeRequired",
+                    "MarkupsCalculated": null,
+                    "PromoTypes": null,
+                    "RoomRate": 35.96,
+                    "MarkupRate": 0.0,
+                    "DiscountRate": 0.0,
+                    "BaseRoomRate": 35.96,
+                    "RoomTax": 0.0,
+                    "TotalTaxes": 0.00,
+                    "Inclusion": null,
+                    "ResultIndex": "B1KUK3C",
+                    "TaxesToPay": null,
+                    "RoomTypeCode": "B1K",
+                    "DisplayRoomRate": 0.0,
+                    "TBORoomRate": 0.0,
+                    "RoomText": [
+                        "Flexible Bed - Breakfast Rate*Available To All ",
+                        "1 King Bed,Nsmk,Stnd,View,Safe,Refrig,Wifi",
+                        "Standard"
+                    ],
+                    "RoomNote": null,
+                    "RateChange": false,
+                    "Category": "Standard",
+                    "Meal": null,
+                    "NumberOfBeds": "1",
+                    "NumberOfRooms": "1",
+                    "BedType": "King",
+                    "DailyRate": null,
+                    "CheckInTime": null,
+                    "CheckOutTime": null,
+                    "RoomDailyrate": [
+                        {
+                            "RoomDailyRate": 35.96,
+                            "MarkupRate": 0.0,
+                            "DiscountRate": 0.0
+                        }
+                    ],
+                    "IsMarkUpDisplay": false,
+                    "MarkUp": 0.0,
+                    "MarkUpType": null,
+                    "PolicyType": null,
+                    "MarkupName": null,
+                    "PolicyDisplayName": null,
+                    "PromotionalDiscount": null,
+                    "Markups": [],
+                    "CancellationPenalties": [
+                        {
+                            "Amount": 0.0,
+                            "IsNonRefundable": false,
+                            "CurrencyCode": "USD",
+                            "DeadlineDate": "2022-03-15T16:00:00",
+                            "Description": null
+                        }
+                    ],
+                    "DisallowBooking": false,
+                    "SendToOutOfPolicy": false,
+                    "MealPlanId": 0,
+                    "RoomAmenitiesCollection": null,
+                    "DefaultPolicy": null,
+                    "RoomPromtion": null,
+                    "HotelNorms": null,
+                    "CancellationDeadline": null
+                },
+                {
+                    "Id": "210d46b5-3d34-48cc-9a14-fecd2a7f0365",
+                    "BookingCode": "A2TUK3D",
+                    "IsAddedToCart": false,
+                    "PriceWithoutTax": null,
+                    "RatePlanCode": "BAR",
+                    "HoldTime": "0001-01-01T00:00:00",
+                    "Status": null,
+                    "GuaranteeType": "GuaranteeRequired",
+                    "MarkupsCalculated": null,
+                    "PromoTypes": null,
+                    "RoomRate": 35.96,
+                    "MarkupRate": 0.0,
+                    "DiscountRate": 0.0,
+                    "BaseRoomRate": 35.96,
+                    "RoomTax": 0.0,
+                    "TotalTaxes": 0.00,
+                    "Inclusion": null,
+                    "ResultIndex": "A2TUK3D",
+                    "TaxesToPay": null,
+                    "RoomTypeCode": "A2T",
+                    "DisplayRoomRate": 0.0,
+                    "TBORoomRate": 0.0,
+                    "RoomText": [
+                        "Flexible Bed - Breakfast Rate*Available To All ",
+                        "2 Single Beds,Nsmk,Stnd,View,Safe,Refrig,Wifi",
+                        "Standard"
+                    ],
+                    "RoomNote": null,
+                    "RateChange": false,
+                    "Category": "Standard",
+                    "Meal": null,
+                    "NumberOfBeds": "2",
+                    "NumberOfRooms": "1",
+                    "BedType": "Single",
+                    "DailyRate": null,
+                    "CheckInTime": null,
+                    "CheckOutTime": null,
+                    "RoomDailyrate": [
+                        {
+                            "RoomDailyRate": 35.96,
+                            "MarkupRate": 0.0,
+                            "DiscountRate": 0.0
+                        }
+                    ],
+                    "IsMarkUpDisplay": false,
+                    "MarkUp": 0.0,
+                    "MarkUpType": null,
+                    "PolicyType": null,
+                    "MarkupName": null,
+                    "PolicyDisplayName": null,
+                    "PromotionalDiscount": null,
+                    "Markups": [],
+                    "CancellationPenalties": [
+                        {
+                            "Amount": 0.0,
+                            "IsNonRefundable": false,
+                            "CurrencyCode": "USD",
+                            "DeadlineDate": "2022-03-15T16:00:00",
+                            "Description": null
+                        }
+                    ],
+                    "DisallowBooking": false,
+                    "SendToOutOfPolicy": false,
+                    "MealPlanId": 0,
+                    "RoomAmenitiesCollection": null,
+                    "DefaultPolicy": null,
+                    "RoomPromtion": null,
+                    "HotelNorms": null,
+                    "CancellationDeadline": null
+                },
+                {
+                    "Id": "56f00725-7a0e-4bae-ac43-ca1598d8d9e7",
+                    "BookingCode": "B1KUK3G",
+                    "IsAddedToCart": false,
+                    "PriceWithoutTax": null,
+                    "RatePlanCode": "BAR",
+                    "HoldTime": "0001-01-01T00:00:00",
+                    "Status": null,
+                    "GuaranteeType": "GuaranteeRequired",
+                    "MarkupsCalculated": null,
+                    "PromoTypes": null,
+                    "RoomRate": 37.33,
+                    "MarkupRate": 0.0,
+                    "DiscountRate": 0.0,
+                    "BaseRoomRate": 37.33,
+                    "RoomTax": 0.0,
+                    "TotalTaxes": 0.00,
+                    "Inclusion": null,
+                    "ResultIndex": "B1KUK3G",
+                    "TaxesToPay": null,
+                    "RoomTypeCode": "B1K",
+                    "DisplayRoomRate": 0.0,
+                    "TBORoomRate": 0.0,
+                    "RoomText": [
+                        "Flexible Bed - Breakfast Rate*Available To All ",
+                        "1 King Bed,Junior Suite,Nonsmoking,",
+                        "Free Internet"
+                    ],
+                    "RoomNote": null,
+                    "RateChange": false,
+                    "Category": "Junior Suite/Mini Suite",
+                    "Meal": null,
+                    "NumberOfBeds": "1",
+                    "NumberOfRooms": "1",
+                    "BedType": "King",
+                    "DailyRate": null,
+                    "CheckInTime": null,
+                    "CheckOutTime": null,
+                    "RoomDailyrate": [
+                        {
+                            "RoomDailyRate": 37.33,
+                            "MarkupRate": 0.0,
+                            "DiscountRate": 0.0
+                        }
+                    ],
+                    "IsMarkUpDisplay": false,
+                    "MarkUp": 0.0,
+                    "MarkUpType": null,
+                    "PolicyType": null,
+                    "MarkupName": null,
+                    "PolicyDisplayName": null,
+                    "PromotionalDiscount": null,
+                    "Markups": [],
+                    "CancellationPenalties": [
+                        {
+                            "Amount": 0.0,
+                            "IsNonRefundable": false,
+                            "CurrencyCode": "USD",
+                            "DeadlineDate": "2022-03-15T16:00:00",
+                            "Description": null
+                        }
+                    ],
+                    "DisallowBooking": false,
+                    "SendToOutOfPolicy": false,
+                    "MealPlanId": 0,
+                    "RoomAmenitiesCollection": null,
+                    "DefaultPolicy": null,
+                    "RoomPromtion": null,
+                    "HotelNorms": null,
+                    "CancellationDeadline": null
+                },
+                {
+                    "Id": "105938df-75f0-4db8-91c7-25bd48a01073",
+                    "BookingCode": "A1KUK3F",
+                    "IsAddedToCart": false,
+                    "PriceWithoutTax": null,
+                    "RatePlanCode": "BAR",
+                    "HoldTime": "0001-01-01T00:00:00",
+                    "Status": null,
+                    "GuaranteeType": "GuaranteeRequired",
+                    "MarkupsCalculated": null,
+                    "PromoTypes": null,
+                    "RoomRate": 40.56,
+                    "MarkupRate": 0.0,
+                    "DiscountRate": 0.0,
+                    "BaseRoomRate": 40.56,
+                    "RoomTax": 0.0,
+                    "TotalTaxes": 0.00,
+                    "Inclusion": null,
+                    "ResultIndex": "A1KUK3F",
+                    "TaxesToPay": null,
+                    "RoomTypeCode": "A1K",
+                    "DisplayRoomRate": 0.0,
+                    "TBORoomRate": 0.0,
+                    "RoomText": [
+                        "Flexible Bed - Breakfast Rate*Available To All ",
+                        "1 King Bed,Nsmk,Jrste,View,Safe,Refrig,Wifi",
+                        "Standard"
+                    ],
+                    "RoomNote": null,
+                    "RateChange": false,
+                    "Category": "Standard",
+                    "Meal": null,
+                    "NumberOfBeds": "1",
+                    "NumberOfRooms": "1",
+                    "BedType": "King",
+                    "DailyRate": null,
+                    "CheckInTime": null,
+                    "CheckOutTime": null,
+                    "RoomDailyrate": [
+                        {
+                            "RoomDailyRate": 40.56,
+                            "MarkupRate": 0.0,
+                            "DiscountRate": 0.0
+                        }
+                    ],
+                    "IsMarkUpDisplay": false,
+                    "MarkUp": 0.0,
+                    "MarkUpType": null,
+                    "PolicyType": null,
+                    "MarkupName": null,
+                    "PolicyDisplayName": null,
+                    "PromotionalDiscount": null,
+                    "Markups": [],
+                    "CancellationPenalties": [
+                        {
+                            "Amount": 0.0,
+                            "IsNonRefundable": false,
+                            "CurrencyCode": "USD",
+                            "DeadlineDate": "2022-03-15T16:00:00",
+                            "Description": null
+                        }
+                    ],
+                    "DisallowBooking": false,
+                    "SendToOutOfPolicy": false,
+                    "MealPlanId": 0,
+                    "RoomAmenitiesCollection": null,
+                    "DefaultPolicy": null,
+                    "RoomPromtion": null,
+                    "HotelNorms": null,
+                    "CancellationDeadline": null
+                },
+                {
+                    "Id": "9c96084d-097f-47ad-991f-c89eb79ca219",
+                    "BookingCode": "S1KAAAH",
+                    "IsAddedToCart": false,
+                    "PriceWithoutTax": null,
+                    "RatePlanCode": "AAA",
+                    "HoldTime": "0001-01-01T00:00:00",
+                    "Status": null,
+                    "GuaranteeType": "GuaranteeRequired",
+                    "MarkupsCalculated": null,
+                    "PromoTypes": null,
+                    "RoomRate": 42.08,
+                    "MarkupRate": 0.0,
+                    "DiscountRate": 0.0,
+                    "BaseRoomRate": 42.08,
+                    "RoomTax": 0.0,
+                    "TotalTaxes": 0.00,
+                    "Inclusion": null,
+                    "ResultIndex": "S1KAAAH",
+                    "TaxesToPay": null,
+                    "RoomTypeCode": "S1K",
+                    "DisplayRoomRate": 0.0,
+                    "TBORoomRate": 0.0,
+                    "RoomText": [
+                        "Aaa Caa Rate ",
+                        "Suite-1 King Bed,Nsmk,Suite,Cofteafac,Freeint",
+                        "Standard"
+                    ],
+                    "RoomNote": null,
+                    "RateChange": false,
+                    "Category": "Junior Suite/Mini Suite",
+                    "Meal": null,
+                    "NumberOfBeds": "1",
+                    "NumberOfRooms": "1",
+                    "BedType": "King",
+                    "DailyRate": null,
+                    "CheckInTime": null,
+                    "CheckOutTime": null,
+                    "RoomDailyrate": [
+                        {
+                            "RoomDailyRate": 42.08,
+                            "MarkupRate": 0.0,
+                            "DiscountRate": 0.0
+                        }
+                    ],
+                    "IsMarkUpDisplay": false,
+                    "MarkUp": 0.0,
+                    "MarkUpType": null,
+                    "PolicyType": null,
+                    "MarkupName": null,
+                    "PolicyDisplayName": null,
+                    "PromotionalDiscount": null,
+                    "Markups": [],
+                    "CancellationPenalties": [
+                        {
+                            "Amount": 0.0,
+                            "IsNonRefundable": false,
+                            "CurrencyCode": "USD",
+                            "DeadlineDate": "2022-03-15T16:00:00",
+                            "Description": null
+                        }
+                    ],
+                    "DisallowBooking": false,
+                    "SendToOutOfPolicy": false,
+                    "MealPlanId": 0,
+                    "RoomAmenitiesCollection": null,
+                    "DefaultPolicy": null,
+                    "RoomPromtion": null,
+                    "HotelNorms": null,
+                    "CancellationDeadline": null
+                },
+                {
+                    "Id": "6a9dcfef-9d17-4fec-867f-caa3af3af9bd",
+                    "BookingCode": "S1KRACH",
+                    "IsAddedToCart": false,
+                    "PriceWithoutTax": null,
+                    "RatePlanCode": "BAR",
+                    "HoldTime": "0001-01-01T00:00:00",
+                    "Status": null,
+                    "GuaranteeType": "GuaranteeRequired",
+                    "MarkupsCalculated": null,
+                    "PromoTypes": null,
+                    "RoomRate": 46.75,
+                    "MarkupRate": 0.0,
+                    "DiscountRate": 0.0,
+                    "BaseRoomRate": 46.75,
+                    "RoomTax": 0.0,
+                    "TotalTaxes": 0.00,
+                    "Inclusion": null,
+                    "ResultIndex": "S1KRACH",
+                    "TaxesToPay": null,
+                    "RoomTypeCode": "S1K",
+                    "DisplayRoomRate": 0.0,
+                    "TBORoomRate": 0.0,
+                    "RoomText": [
+                        "Flexible Rate*Best Least Restrictive Rate",
+                        "Suite-1 King Bed,Nsmk,Suite,Cofteafac,Freeint",
+                        "Standard"
+                    ],
+                    "RoomNote": null,
+                    "RateChange": false,
+                    "Category": "Junior Suite/Mini Suite",
+                    "Meal": null,
+                    "NumberOfBeds": "1",
+                    "NumberOfRooms": "1",
+                    "BedType": "King",
+                    "DailyRate": null,
+                    "CheckInTime": null,
+                    "CheckOutTime": null,
+                    "RoomDailyrate": [
+                        {
+                            "RoomDailyRate": 46.75,
+                            "MarkupRate": 0.0,
+                            "DiscountRate": 0.0
+                        }
+                    ],
+                    "IsMarkUpDisplay": false,
+                    "MarkUp": 0.0,
+                    "MarkUpType": null,
+                    "PolicyType": null,
+                    "MarkupName": null,
+                    "PolicyDisplayName": null,
+                    "PromotionalDiscount": null,
+                    "Markups": [],
+                    "CancellationPenalties": [
+                        {
+                            "Amount": 0.0,
+                            "IsNonRefundable": false,
+                            "CurrencyCode": "USD",
+                            "DeadlineDate": "2022-03-15T16:00:00",
+                            "Description": null
+                        }
+                    ],
+                    "DisallowBooking": false,
+                    "SendToOutOfPolicy": false,
+                    "MealPlanId": 0,
+                    "RoomAmenitiesCollection": null,
+                    "DefaultPolicy": null,
+                    "RoomPromtion": null,
+                    "HotelNorms": null,
+                    "CancellationDeadline": null
+                },
+                {
+                    "Id": "ef8e362d-ddf1-4b8a-a5e2-53b130c75f27",
+                    "BookingCode": "S1KUK3H",
+                    "IsAddedToCart": false,
+                    "PriceWithoutTax": null,
+                    "RatePlanCode": "BAR",
+                    "HoldTime": "0001-01-01T00:00:00",
+                    "Status": null,
+                    "GuaranteeType": "GuaranteeRequired",
+                    "MarkupsCalculated": null,
+                    "PromoTypes": null,
+                    "RoomRate": 51.68,
+                    "MarkupRate": 0.0,
+                    "DiscountRate": 0.0,
+                    "BaseRoomRate": 51.68,
+                    "RoomTax": 0.0,
+                    "TotalTaxes": 0.00,
+                    "Inclusion": null,
+                    "ResultIndex": "S1KUK3H",
+                    "TaxesToPay": null,
+                    "RoomTypeCode": "S1K",
+                    "DisplayRoomRate": 0.0,
+                    "TBORoomRate": 0.0,
+                    "RoomText": [
+                        "Flexible Bed - Breakfast Rate*Available To All ",
+                        "Suite-1 King Bed,Nsmk,Suite,Cofteafac,Freeint",
+                        "Standard"
+                    ],
+                    "RoomNote": null,
+                    "RateChange": false,
+                    "Category": "Junior Suite/Mini Suite",
+                    "Meal": null,
+                    "NumberOfBeds": "1",
+                    "NumberOfRooms": "1",
+                    "BedType": "King",
+                    "DailyRate": null,
+                    "CheckInTime": null,
+                    "CheckOutTime": null,
+                    "RoomDailyrate": [
+                        {
+                            "RoomDailyRate": 51.68,
+                            "MarkupRate": 0.0,
+                            "DiscountRate": 0.0
+                        }
+                    ],
+                    "IsMarkUpDisplay": false,
+                    "MarkUp": 0.0,
+                    "MarkUpType": null,
+                    "PolicyType": null,
+                    "MarkupName": null,
+                    "PolicyDisplayName": null,
+                    "PromotionalDiscount": null,
+                    "Markups": [],
+                    "CancellationPenalties": [
+                        {
+                            "Amount": 0.0,
+                            "IsNonRefundable": false,
+                            "CurrencyCode": "USD",
+                            "DeadlineDate": "2022-03-15T16:00:00",
+                            "Description": null
+                        }
+                    ],
+                    "DisallowBooking": false,
+                    "SendToOutOfPolicy": false,
+                    "MealPlanId": 0,
+                    "RoomAmenitiesCollection": null,
+                    "DefaultPolicy": null,
+                    "RoomPromtion": null,
+                    "HotelNorms": null,
+                    "CancellationDeadline": null
+                }
+            ],
+            "KeyCollectionInfo": null,
+            "HotelType": null,
+            "GuestCount": 1,
+            "HotelFeatures": []
+        }
+    ],
+    "MinPrice": 28.21,
+    "MaxPrice": 28.21,
+    "PaginationData": null
+}

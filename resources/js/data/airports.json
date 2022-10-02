@@ -1,0 +1,106 @@
+[
+    {
+      "Code": "PEK",
+      "Name": "Capital Intl",
+      "City": "Beijing",
+      "Region": null,
+      "Country": "China-Excl Hong Kong SAR",
+      "Type": "Airport"
+    },
+    {
+      "Code": "BJS",
+      "Name": null,
+      "City": "Beijing",
+      "Region": null,
+      "Country": "China-Excl Hong Kong SAR",
+      "Type": "City"
+    },
+    {
+      "Code": "NAY",
+      "Name": "Nanyuan Apt",
+      "City": "Beijing",
+      "Region": null,
+      "Country": "China-Excl Hong Kong SAR",
+      "Type": "Airport"
+    },
+    {
+        "Code": "NYC",
+        "Name": null,
+        "City": "New York",
+        "Region": "NY",
+        "Country": "United States of America",
+        "Type": "City"
+      },
+      {
+        "Code": "JFK",
+        "Name": "John F Kennedy",
+        "City": "New York",
+        "Region": "NY",
+        "Country": "United States of America",
+        "Type": "Airport"
+      },
+      {
+        "Code": "EWR",
+        "Name": "Newark Liberty Intl",
+        "City": "Newark",
+        "Region": "NJ",
+        "Country": "United States of America",
+        "Type": "Airport"
+      },
+      {
+        "Code": "LGA",
+        "Name": "La Guardia",
+        "City": "New York",
+        "Region": "NY",
+        "Country": "United States of America",
+        "Type": "Airport"
+      },
+      {
+        "Code": "AKL",
+        "Name": "Auckland",
+        "City": "Auckland",
+        "Region": null,
+        "Country": "New Zealand",
+        "Type": "City"
+      },
+      {
+        "Code": "MSY",
+        "Name": "L Armstrong Intl",
+        "City": "New Orleans",
+        "Region": "LA",
+        "Country": "United States of America",
+        "Type": "City"
+      },
+      {
+        "Code": "NCL",
+        "Name": "International",
+        "City": "Newcastle",
+        "Region": null,
+        "Country": "United Kingdom",
+        "Type": "Airport"
+      },
+      {
+        "Code": "CHC",
+        "Name": "Christchurch",
+        "City": "Christchurch",
+        "Region": null,
+        "Country": "New Zealand",
+        "Type": "Airport"
+      },
+      {
+        "Code": "WLG",
+        "Name": "Wellington",
+        "City": "Wellington",
+        "Region": null,
+        "Country": "New Zealand",
+        "Type": "Airport"
+      },
+      {
+        "Code": "PHF",
+        "Name": "Newport News Hampton",
+        "City": "Newport News Hampton",
+        "Region": "VA",
+        "Country": "United States of America",
+        "Type": "City"
+      }
+  ]

@@ -1,0 +1,43 @@
+// Fonts
+// @import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+// @import '~bootstrap/scss/bootstrap';
+
+
+/**
+ * This injects Tailwind's base styles, which is a combination of
+ * Normalize.css and some additional base styles.
+ *
+ * You can see the styles here:
+ * https://unpkg.com/tailwindcss/dist/base.css
+ */
+ @tailwind base;
+
+ /**
+ * This injects any component classes registered by plugins.
+ */
+@tailwind components;
+
+/**
+ * This injects all of Tailwind's utility classes, generated based on your
+ * config file.
+ */
+ @tailwind utilities;
+
+ .date-range-selector>div {
+     @apply w-full min-w-[180px]
+ }
+
+ p.Mui-error {
+     position: absolute;
+     top: 52px;
+ }
+
+ .footer-text-decor {
+     @apply underline decoration-wavy underline-offset-4 decoration-[#1976d2];
+    //  margin-bottom: 14px !important;
+ }
